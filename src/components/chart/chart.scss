@@ -1,0 +1,120 @@
+@import 'styles/variables';
+
+$grid-line-color: #EEEEEE;
+$grid-tick-color: #EFEFEF;
+
+.chart {
+  width: 100%;
+  height: 85%;
+
+  .axis {
+    .domain {
+      stroke: none;
+      fill: none;
+    }
+    line {
+      stroke: $grid-line-color;
+      shape-rendering: crispEdges;
+    }
+    &.grid {
+      .tick {
+        line {
+          stroke: $grid-tick-color;
+          stroke-dasharray: 2,2;
+        }
+      }
+    }
+  }
+
+  .overlay {
+    stroke-width: 0;
+    fill-opacity: 0;
+  }
+
+  .axis text, .labels {
+    font-size: 10px;
+  }
+
+  .gradient-line {
+    fill: none;
+    stroke: url(#heartrate-gradient);
+    stroke-width: 1.5px;
+    transition: stroke-opacity 0.233s ease;
+
+    &.hide {
+      stroke-opacity: 0;
+    }
+  }
+
+  .bar {
+    &.red { fill: $brand-primary }
+    &.orange { fill: #f58f29 }
+    &.blue { fill: $brand-blue }
+  }
+
+  .focus {
+    opacity: 0;
+    transition: opacity 0.233s ease;
+    &.show { opacity: 1 }
+  }
+
+  .focus-line {
+    stroke: $big-hero-grey;
+    stroke-width: 1px;
+    stroke-dasharray: 2,2;
+  }
+
+  .focus-point {
+    stroke: $big-hero-grey;
+    fill: white;
+  }
+}
+
+.graph-tooltip {
+  position: absolute;
+  z-index: 1;
+  text-align: center;
+  width: 80px;
+  padding: 3px;
+  font-size: 11px;
+  background: #fff;
+  border: 2px solid $border-color;
+  border-radius: 3px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.233s ease;
+  &.show { opacity: 1 }
+
+  span {
+    font-weight: 800;
+    display: block;
+    &:nth-child(2) {
+      font-weight: 300;
+      font-size: 8px;
+    }
+  }
+}
+
+.graph-tooltip:after, .graph-tooltip:before {
+  top: 100%;
+  left: 50%;
+  border: solid transparent;
+  content: "";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.graph-tooltip:after {
+  border-color: rgba(255, 255, 255, 0);
+  border-top-color: #ffffff;
+  border-width: 5px;
+  margin-left: -5px;
+}
+.graph-tooltip:before {
+  border-color: rgba(241, 241, 241, 0);
+  border-top-color: $border-color;
+  border-width: 8px;
+  margin-left: -8px;
+}
