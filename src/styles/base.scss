@@ -1,8 +1,8 @@
 /* Base Styles
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-@import './normalize.css';
+@import './normalize.scss';
 @import './variables.scss';
-@import './fonts.css';
+@import './fonts.scss';
 
 /*
   html is set to 62.5% so that all the REM measurements are based on 10px sizing.
