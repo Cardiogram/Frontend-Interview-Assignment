@@ -1,16 +1,18 @@
 import React, { Component } from 'react';
+import fetch from 'isomorphic-fetch';
+
 import Cardiogram from '../models/cardiogram';
 import Chart from '../components/chart';
 import './app.css';
 
 // Urls to fetch cardiograms from
 const CARDIOGRAM_URLS = [
-  { url: 'data/fzcy58.json' },
-  { url: 'data/ilrs66.json' },
-  { url: 'data/m68mee.json' },
-  { url: 'data/hyef26.json' },
-  { url: 'data/u4nyvl.json' },
-  { url: 'data/8f7nc7.json' }
+  { url: 'http://localhost:3000/data/fzcy58.json' },
+  { url: 'http://localhost:3000/data/ilrs66.json' },
+  { url: 'http://localhost:3000/data/m68mee.json' },
+  { url: 'http://localhost:3000/data/hyef26.json' },
+  { url: 'http://localhost:3000/data/u4nyvl.json' },
+  { url: 'http://localhost:3000/data/8f7nc7.json' }
 ];
 
 /**
