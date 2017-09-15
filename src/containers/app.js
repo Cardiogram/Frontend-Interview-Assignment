@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Cardiogram from '../models/cardiogram';
-import BarChart from '../components/chart/bar-chart';
+import Chart from '../components/chart';
 import './app.css';
 
 // Urls to fetch cardiograms from
@@ -43,10 +43,10 @@ class App extends Component {
       <section className="app">
         {this.state.isLoading && 'Loading...'}
         {
-          !this.state.isLoading && this.state.cardiograms.map((c, i) =>
-            <div key={i} className="cardiogram">
+          !this.state.isLoading && this.state.cardiograms.map((c) =>
+            <div key={c.title} className="cardiogram">
               <h3 className="cardiogram-title">{c.title}</h3>
-              <BarChart cardiogram={c} />
+              <Chart cardiogram={c} />
             </div>
           )
         }
