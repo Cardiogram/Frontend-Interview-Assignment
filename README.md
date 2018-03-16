@@ -1,4 +1,4 @@
-## Cardiogram Onsite
+# Cardiogram Onsite
 Welcome to Cardiogram's onsite interview! You'll be using this repository as boilerplate towards your project.
 
 ## Installation
@@ -15,6 +15,5 @@ You will see the build errors and lint warnings in the console.
 
 ### `npm test` or `yarn test`
 
-Runs the test watcher in an interactive mode.<br>
+Runs the test watcher in an interactive mode.
 By default, runs tests related to files changed since the last commit.
-

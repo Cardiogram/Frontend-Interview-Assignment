@@ -1,17 +1,11 @@
-import React from 'react';
+import React, { Component } from 'react';
+import * as d3 from 'd3';
+
 import './chart.css';
 import Cardiogram from '../../models/cardiogram';
-import * as d3 from 'd3';
 import Chart from './chart';
 
-export default class BarChart extends React.Component {
-  static propTypes() {
-    return {
-      isActive: React.PropTypes.bool,
-      cardiogram: React.PropTypes.instanceOf(Cardiogram).isRequired
-    };
-  }
-
+class BarChart extends Component {
   constructor(props) {
     super(props);
     this.chart = new Chart({
@@ -34,7 +28,6 @@ export default class BarChart extends React.Component {
     if (container) {
       chart.initiate(container).setupChart(this.props.cardiogram);
       this.barList = this.renderChart();
-      this.chart.addEvents();
       this.transitionChart(true);
     }
   }
@@ -89,3 +82,9 @@ export default class BarChart extends React.Component {
     );
   }
 }
+
+BarChart.propTypes = {
+  cardiogram: React.PropTypes.instanceOf(Cardiogram).isRequired
+};
+
+export default BarChart;

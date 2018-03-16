@@ -3,7 +3,7 @@ import Cardiogram from '../models/cardiogram';
 import BarChart from '../components/chart/bar-chart';
 import './app.css';
 
-// Urls to fetch cardiograms from
+// Urls to fetch dummy cardiograms from:
 const CARDIOGRAM_URLS = [
   { url: 'data/fzcy58.json' },
   { url: 'data/ilrs66.json' },
@@ -12,6 +12,10 @@ const CARDIOGRAM_URLS = [
   { url: 'data/u4nyvl.json' },
   { url: 'data/8f7nc7.json' }
 ];
+
+// For a more accurate API of Cardiogram, you can use:
+// https://cardiogram-dev.herokuapp.com/heart/cardiograms/preview/cardiograms/%7B%22_terms%22%3A%5B%7B%22type%22%3A%22CARDIOGRAM_TYPES%22%2C%22value%22%3A%5B%22WORKOUT%22%2C%22DAILY_SUMMARY%22%2C%22DIALOG%22%2C%22WEEK_IN_REVIEW%22%5D%7D%5D%2C%22limit%22%3A2%2C%22offset%22%3A0%2C%22orderBy%22%3A%22start%22%2C%22ascOrDesc%22%3A%22DESC%22%7D?_=1521175601757
+// This response preview response data will also return segments.
 
 /**
  * Base App component
@@ -43,8 +47,8 @@ class App extends Component {
       <section className="app">
         {this.state.isLoading && 'Loading...'}
         {
-          !this.state.isLoading && this.state.cardiograms.map((c, i) =>
-            <div key={i} className="cardiogram">
+          !this.state.isLoading && this.state.cardiograms.map((c) =>
+            <div key={c.title} className="cardiogram">
               <h3 className="cardiogram-title">{c.title}</h3>
               <BarChart cardiogram={c} />
             </div>

@@ -23,16 +23,16 @@ function setupLinearGradient(chart, svg) {
     .attr('y1', chart.scale.yScale(50))
     .attr('y2', chart.scale.yScale(100))
     .selectAll('stop')
-      .data([
-        { offset: '0%', color: '#00C0EF' },
-        { offset: '30%', color: '#f58f29' },
-        { offset: '80%', color: '#f58f29' },
-        { offset: '100%', color: '#ff543b' }
-      ])
+    .data([
+      { offset: '0%', color: '#00C0EF' },
+      { offset: '30%', color: '#f58f29' },
+      { offset: '80%', color: '#f58f29' },
+      { offset: '100%', color: '#ff543b' }
+    ])
     .enter()
-      .append('stop')
-      .attr('offset', (d) => d.offset)
-      .attr('stop-color', (d) => d.color);
+    .append('stop')
+    .attr('offset', (d) => d.offset)
+    .attr('stop-color', (d) => d.color);
 }
 
 
