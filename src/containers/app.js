@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import fetch from 'isomorphic-fetch';
 
 import Cardiogram from '../models/cardiogram';
-import Chart from '../components/chart';
+import BarChart from '../components/chart/bar-chart';
 import './app.css';
 
 // Urls to fetch dummy cardiograms from:
@@ -52,7 +52,7 @@ class App extends Component {
           !this.state.isLoading && this.state.cardiograms.map((c) =>
             <div key={c.title} className="cardiogram">
               <h3 className="cardiogram-title">{c.title}</h3>
-              <Chart cardiogram={c} />
+              <BarChart cardiogram={c} />
             </div>
           )
         }
