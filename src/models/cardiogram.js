@@ -8,6 +8,5 @@ export default class Cardiogram {
     this.data = card.song.lines.heartRate._line;
     this.start = cardiogram.start;
     this.end = cardiogram.end;
-    this.averageBpm = card.stats.averageBpm;
   }
 }
