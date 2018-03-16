@@ -4,11 +4,13 @@
   "private": true,
   "dependencies": {
     "d3": "^4.10.0",
+    "es6-promise": "^4.1.1",
     "eslint": "^4.3.0",
     "eslint-config-airbnb": "^15.1.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.1.0",
+    "isomorphic-fetch": "^2.2.1",
     "node-sass-chokidar": "^0.0.3",
     "npm-run-all": "^4.0.2",
     "react": "^15.6.1",

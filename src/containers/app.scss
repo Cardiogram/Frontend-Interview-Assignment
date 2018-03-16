@@ -4,6 +4,8 @@
 }
 
 .cardiogram {
+  display: flex;
+  flex-direction: column;
   height: 300px;
   max-width: 600px;
   margin: 0 auto 20px;
