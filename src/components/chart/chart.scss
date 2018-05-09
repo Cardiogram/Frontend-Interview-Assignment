@@ -24,6 +24,9 @@ $grid-tick-color: #EFEFEF;
         }
       }
     }
+
+    transition-duration: 0.35s;
+    transition-timing-function: ease-out;
   }
 
   .overlay {
@@ -117,4 +120,9 @@ $grid-tick-color: #EFEFEF;
   border-top-color: $border-color;
   border-width: 8px;
   margin-left: -8px;
+}
+
+.lens-chart-transition {
+  transition-duration: 1.0s;
+  transition-timing-function: ease-out;
 }
