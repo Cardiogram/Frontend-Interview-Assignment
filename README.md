@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Cardiogram/frontend-interview-assignment.svg?branch=master)](https://travis-ci.com/Cardiogram/frontend-interview-assignment)
+
 # Cardiogram Frontend Interview
 
 Welcome to Cardiogram's frontend interview! You'll be using this repository as boilerplate towards your project. You should have received instructions on your assignment.
