@@ -1,18 +1,31 @@
 # Cardiogram Frontend Interview
 
-Welcome to Cardiogram's frontend interview! You'll be using this repository as boilerplate towards your project.
+Welcome to Cardiogram's frontend interview! You'll be using this repository as boilerplate towards your project. You should have received instructions on your assignment.
 
-## Installation
+### Setup
 
-Run `npm i` or `yarn` to install dependencies after cloning this repo.<br>
+Clone the repo and install dependencies
 
-`npm run dev` or `yarn dev` runs the app in development mode.<br>
+```bash
+git clone git@github.com:Cardiogram/frontend-interview-assignment.git .
+npm i
+```
 
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Running in development mode
 
-The page will reload if you make edits.<br>
+```bash
+npm run dev
+```
 
-### `npm test` or `yarn test`
+This will start the Webpack Dev Server that serves assets in the `/src` directory (it will refresh the page on changes)
+
+You can then open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+### Testing
+
+```bash
+npm run test
+```
 
 Runs the test watcher in an interactive mode.
 By default, runs tests related to files changed since the last commit.
