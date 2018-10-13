@@ -12,7 +12,7 @@ const CARDIOGRAM_URLS = [
   { url: 'http://localhost:3000/data/m68mee.json' },
   { url: 'http://localhost:3000/data/hyef26.json' },
   { url: 'http://localhost:3000/data/u4nyvl.json' },
-  { url: 'http://localhost:3000/data/8f7nc7.json' }
+  { url: 'http://localhost:3000/data/8f7nc7.json' },
 ];
 
 // For a more accurate API of Cardiogram, you can use:
@@ -27,20 +27,21 @@ class App extends Component {
     super(props);
     this.state = {
       isLoading: true,
-      cardiograms: []
+      cardiograms: [],
     };
   }
 
   componentDidMount() {
-    Promise.all(CARDIOGRAM_URLS.map((c) => this.fetchData(c)))
-      .then((cardiograms) => {
+    Promise.all(CARDIOGRAM_URLS.map((c) => this.fetchData(c))).then(
+      (cardiograms) => {
         this.setState({ isLoading: false, cardiograms });
-      });
+      },
+    );
   }
 
   fetchData(c) {
     return fetch(c.url).then((response) =>
-      response.json().then((data) => new Cardiogram(data.cardiogram))
+      response.json().then((data) => new Cardiogram(data.cardiogram)),
     );
   }
 
@@ -48,14 +49,13 @@ class App extends Component {
     return (
       <section className="app">
         {this.state.isLoading && 'Loading...'}
-        {
-          !this.state.isLoading && this.state.cardiograms.map((c) =>
+        {!this.state.isLoading &&
+          this.state.cardiograms.map((c) => (
             <div key={c.title} className="cardiogram">
               <h3 className="cardiogram-title">{c.title}</h3>
               <BarChart cardiogram={c} />
             </div>
-          )
-        }
+          ))}
       </section>
     );
   }

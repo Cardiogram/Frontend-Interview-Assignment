@@ -1,0 +1,127 @@
+.chart {
+  width: 100%;
+  height: 85%;
+}
+
+.chart .axis .domain {
+  stroke: none;
+  fill: none;
+}
+
+.chart .axis line {
+  stroke: #eeeeee;
+  shape-rendering: crispEdges;
+}
+
+.chart .axis.grid .tick line {
+  stroke: #efefef;
+  stroke-dasharray: 2, 2;
+}
+
+.chart .overlay {
+  stroke-width: 0;
+  fill-opacity: 0;
+}
+
+.chart .axis text,
+.chart .axis .labels {
+  font-size: 10px;
+}
+
+.chart .gradient-line {
+  fill: none;
+  stroke: url(#heartrate-gradient);
+  stroke-width: 1.5px;
+  transition: stroke-opacity 0.233s ease;
+}
+
+.chart .gradient-line.hide {
+  stroke-opacity: 0;
+}
+
+.chart .bar.red {
+  fill: var(--brand-primary);
+}
+
+.chart .bar.orange {
+  fill: var(--brand-orange);
+}
+
+.chart .bar.blue {
+  fill: var(--brand-blue);
+}
+
+.chart .focus {
+  opacity: 0;
+  transition: opacity 0.233s ease;
+}
+
+.chart .focus.show {
+  opacity: 1;
+}
+
+.chart .focus-line {
+  stroke: var(--big-hero-grey);
+  stroke-width: 1px;
+  stroke-dasharray: 2, 2;
+}
+
+.chart .focus-point {
+  stroke: var(--big-hero-grey);
+  fill: white;
+}
+
+.graph-tooltip {
+  position: absolute;
+  z-index: 1;
+  text-align: center;
+  width: 80px;
+  padding: 3px;
+  font-size: 11px;
+  background: #fff;
+  border: 2px solid var(--border-color);
+  border-radius: 3px;
+  pointer-events: none;
+  opacity: 0;
+  transition: opacity 0.233s ease;
+}
+
+.graph-tooltip.show {
+  opacity: 1;
+}
+
+.graph-tooltip span {
+  font-weight: 800;
+  display: block;
+}
+
+.graph-tooltip span:nth-child(2) {
+  font-weight: 300;
+  font-size: 8px;
+}
+
+.graph-tooltip:after,
+.graph-tooltip:before {
+  top: 100%;
+  left: 50%;
+  border: solid transparent;
+  content: "";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+
+.graph-tooltip:after {
+  border-color: rgba(255, 255, 255, 0);
+  border-top-color: #ffffff;
+  border-width: 5px;
+  margin-left: -5px;
+}
+
+.graph-tooltip:before {
+  border-color: rgba(241, 241, 241, 0);
+  border-top-color: var(--border-color);
+  border-width: 8px;
+  margin-left: -8px;
+}

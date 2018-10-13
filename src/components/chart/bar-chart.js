@@ -14,19 +14,18 @@ class BarChart extends Component {
         top: 30,
         bot: 20,
         left: 30,
-        right: 10
+        right: 10,
       },
       width: null,
-      height: null
+      height: null,
     });
   }
 
   componentDidMount() {
-    const container = this.container;
-    const chart = this.chart;
-
+    const { container, chart } = this;
+    const { cardiogram } = this.props;
     if (container) {
-      chart.initiate(container).setupChart(this.props.cardiogram);
+      chart.initiate(container).setupChart(cardiogram);
       this.barList = this.renderChart();
       this.transitionChart(true);
     }
@@ -34,18 +33,21 @@ class BarChart extends Component {
 
   transitionChart(transitionIn) {
     const { scale, height } = this.chart;
-    const barList = this.barList;
-    const t = d3.transition()
+    const { barList } = this;
+    const t = d3
+      .transition()
       .ease(d3.easeQuadInOut)
       .delay(100)
       .duration(600);
 
     if (transitionIn) {
-      barList.transition(t)
+      barList
+        .transition(t)
         .attr('y', (d) => scale.yScale(d.value))
         .attr('height', (d) => Math.max(0, height - scale.yScale(d.value)));
     } else {
-      barList.transition(t)
+      barList
+        .transition(t)
         .attr('y', height)
         .attr('height', 0);
     }
@@ -53,15 +55,16 @@ class BarChart extends Component {
 
   renderChart() {
     const { svg, scale, width, height } = this.chart;
-    const cardiogram = this.props.cardiogram;
+    const { cardiogram } = this.props;
     const bars = svg.selectAll('bars').data(cardiogram.data);
     const bar = bars.enter();
 
-    return bar.append('rect')
-      .attr('x', (d) => (scale.xScale(d.start)))
+    return bar
+      .append('rect')
+      .attr('x', (d) => scale.xScale(d.start))
       .attr('y', height)
       .attr('height', 0)
-      .attr('width', (width / cardiogram.data.length))
+      .attr('width', width / cardiogram.data.length)
       .attr('class', (d) => {
         if (d.value > 100) {
           return 'bar red';
@@ -74,17 +77,12 @@ class BarChart extends Component {
   }
 
   render() {
-    return (
-      <div
-        ref={(c) => (this.container = c)}
-        className="chart"
-      />
-    );
+    return <div ref={(c) => (this.container = c)} className="chart" />;
   }
 }
 
 BarChart.propTypes = {
-  cardiogram: React.PropTypes.instanceOf(Cardiogram).isRequired
+  cardiogram: React.PropTypes.instanceOf(Cardiogram).isRequired,
 };
 
 export default BarChart;

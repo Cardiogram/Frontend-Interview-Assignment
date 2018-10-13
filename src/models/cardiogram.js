@@ -3,7 +3,7 @@
  */
 export default class Cardiogram {
   constructor(cardiogram) {
-    const card = cardiogram.cards[0];
+    const [card] = cardiogram.cards;
     this.title = cardiogram.name;
     this.data = card.song.lines.heartRate._line;
     this.start = cardiogram.start;

@@ -1,7 +1,8 @@
 import * as d3 from 'd3';
 
 function generateYTicks(chart) {
-  return d3.axisLeft()
+  return d3
+    .axisLeft()
     .scale(chart.scale.yScale)
     .ticks(7)
     .tickSize(-chart.width);
@@ -9,13 +10,15 @@ function generateYTicks(chart) {
 
 function generateXTicks(chart) {
   const ticks = window.innerWidth < 500 ? 3 : 6;
-  return d3.axisBottom()
+  return d3
+    .axisBottom()
     .scale(chart.scale.xScale)
     .tickArguments([ticks, '%I:%M %p']);
 }
 
 function setupLinearGradient(chart, svg) {
-  svg.append('linearGradient')
+  svg
+    .append('linearGradient')
     .attr('id', 'heartrate-gradient')
     .attr('gradientUnits', 'userSpaceOnUse')
     .attr('x1', 0)
@@ -27,7 +30,7 @@ function setupLinearGradient(chart, svg) {
       { offset: '0%', color: '#00C0EF' },
       { offset: '30%', color: '#f58f29' },
       { offset: '80%', color: '#f58f29' },
-      { offset: '100%', color: '#ff543b' }
+      { offset: '100%', color: '#ff543b' },
     ])
     .enter()
     .append('stop')
@@ -35,31 +38,30 @@ function setupLinearGradient(chart, svg) {
     .attr('stop-color', (d) => d.color);
 }
 
-
 function generateScales(chart) {
-  const cardiogram = chart.cardiogram;
+  const { cardiogram } = chart;
   return {
-    xScale: d3.scaleTime()
-      .domain([
-        new Date(cardiogram.start),
-        new Date(cardiogram.end),
-      ])
+    xScale: d3
+      .scaleTime()
+      .domain([new Date(cardiogram.start), new Date(cardiogram.end)])
       .rangeRound([0, chart.width]),
-    yScale: d3.scaleLinear()
+    yScale: d3
+      .scaleLinear()
       .domain([40, d3.max(cardiogram.data, (d) => d.value)])
-      .range([chart.height, 0])
+      .range([chart.height, 0]),
   };
 }
 
 function generateAxis(chart) {
   return {
     yAxis: generateYTicks(chart),
-    xAxis: generateXTicks(chart)
+    xAxis: generateXTicks(chart),
   };
 }
 
 function generateSVG(chart) {
-  const svg = d3.select(chart.element)
+  const svg = d3
+    .select(chart.element)
     .append('svg')
     .attr('width', chart.width + chart.margin.left + chart.margin.right)
     .attr('height', chart.height + chart.margin.top + chart.margin.bot)
@@ -71,11 +73,13 @@ function generateSVG(chart) {
     setupLinearGradient(chart, svg);
   }
 
-  svg.append('g')
+  svg
+    .append('g')
     .attr('class', 'grid axis y')
     .call(chart.axis.yAxis);
 
-  svg.append('g')
+  svg
+    .append('g')
     .attr('class', 'axis x')
     .attr('transform', `translate(0, ${chart.height - 5})`)
     .call(chart.axis.xAxis);
@@ -85,24 +89,28 @@ function generateSVG(chart) {
 
 function generateOverlay(chart) {
   let tooltip = d3.select('.graph-tooltip');
-  const focus = chart.svg.append('g')
-      .attr('class', 'focus hidden');
+  const focus = chart.svg.append('g').attr('class', 'focus hidden');
 
-  focus.append('line')
+  focus
+    .append('line')
     .attr('class', 'focus-line')
     .attr('y1', 0)
     .attr('y2', chart.height);
 
-  focus.append('circle')
+  focus
+    .append('circle')
     .attr('class', 'focus-point')
     .attr('r', 4.5);
 
   if (tooltip.empty()) {
-    tooltip = d3.select('body').append('div')
+    tooltip = d3
+      .select('body')
+      .append('div')
       .attr('class', 'graph-tooltip');
   }
 
-  const overlay = chart.svg.append('rect')
+  const overlay = chart.svg
+    .append('rect')
     .attr('class', 'overlay')
     .attr('width', chart.width)
     .attr('height', chart.height);
@@ -114,12 +122,12 @@ function getOffset(el) {
   const bb = el.getBoundingClientRect();
   return {
     left: bb.left + window.scrollX,
-    top: bb.top + window.scrollY
+    top: bb.top + window.scrollY,
   };
 }
 
 function addOverlayEvents(chart) {
-  const data = chart.cardiogram.data;
+  const { data } = chart.cardiogram;
   const bisectDate = d3.bisector((d) => d.start).left;
   const { overlay, focus, tooltip } = chart.eventHandler;
   const { xScale, yScale } = chart.scale;
@@ -133,19 +141,25 @@ function addOverlayEvents(chart) {
     const d = x0 - d0.start > d1.start - x0 ? d1 : d0;
 
     focus.attr('transform', `translate(${xScale(d.start)},${yScale(d.value)})`);
-    focus.select('.focus-line')
-      .attr('y2', chart.height - yScale(d.value));
+    focus.select('.focus-line').attr('y2', chart.height - yScale(d.value));
 
     const focusPointPos = getOffset(focus.select('.focus-point').node());
 
-    tooltip.html(`<span>${d.value} bpm</span><span>${timeFormatter(d.start)}</span>`)
+    tooltip
+      .html(`<span>${d.value} bpm</span><span>${timeFormatter(d.start)}</span>`)
       .style('left', `${focusPointPos.left - 36}px`)
       .style('top', `${focusPointPos.top - 50}px`);
   }
 
   overlay
-    .on('mouseover', () => { focus.classed('show', true); tooltip.classed('show', true); })
-    .on('mouseout', () => { focus.classed('show', false); tooltip.classed('show', false); })
+    .on('mouseover', () => {
+      focus.classed('show', true);
+      tooltip.classed('show', true);
+    })
+    .on('mouseout', () => {
+      focus.classed('show', false);
+      tooltip.classed('show', false);
+    })
     .on('mousemove', mousemove);
 }
 

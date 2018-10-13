@@ -1,0 +1,30 @@
+:root {
+  /* Colors
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+  --brand-primary: #ff543b;
+  --brand-black: #3b475f;
+  --brand-blue: #60a1ff;
+  --brand-orange: #f58f29;
+  --brand-yellow: #fdaf3c;
+
+  /* Text colors */
+  --text-color: #818c98;
+  --title-color: #3b475f;
+
+  /* Background Colors */
+  --big-hero-grey: #7d8da4;
+  --border-color: #f1f1f1;
+  --background-grey: #f6f8fd;
+
+  /* Layout
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+  --container-max: 1000px;
+  --container-max-small: 840px;
+  --container-max-xsmall: 600px;
+  /* Breakpoints
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+  --bp-mobile-xs: 321px;
+  --bp-mobile: 767px;
+  --bp-tablet: 992px;
+  --bp-desktop: 1200px;
+}
