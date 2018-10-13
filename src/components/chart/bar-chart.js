@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import PropTypes from 'prop-types';
 import * as d3 from 'd3';
 
 import './chart.css';
@@ -82,7 +83,7 @@ class BarChart extends Component {
 }
 
 BarChart.propTypes = {
-  cardiogram: React.PropTypes.instanceOf(Cardiogram).isRequired,
+  cardiogram: PropTypes.instanceOf(Cardiogram).isRequired,
 };
 
 export default BarChart;

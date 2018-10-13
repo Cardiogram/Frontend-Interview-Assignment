@@ -9,7 +9,10 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": ["airbnb", "plugin:prettier/recommended"],
+    "extends": [
+      "airbnb",
+      "plugin:prettier/recommended"
+    ],
     "env": {
       "browser": true
     },
@@ -17,7 +20,9 @@
       "react/jsx-filename-extension": [
         1,
         {
-          "extensions": [".js"]
+          "extensions": [
+            ".js"
+          ]
         }
       ]
     }
@@ -27,11 +32,17 @@
     "trailingComma": "all",
     "arrowParens": "always"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"],
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
   "dependencies": {
     "d3": "5.7.0",
     "isomorphic-fetch": "2.2.1",
     "normalize.css": "8.0.0",
+    "prop-types": "^15.6.2",
     "react": "16.5.2",
     "react-dom": "16.5.2",
     "react-scripts": "2.0.4"
