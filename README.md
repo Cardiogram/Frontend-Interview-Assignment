@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/Cardiogram/frontend-interview-assignment.svg?branch=master)](https://travis-ci.com/Cardiogram/frontend-interview-assignment) [![Greenkeeper badge](https://badges.greenkeeper.io/Cardiogram/frontend-interview-assignment.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.com/Cardiogram/frontend-interview-project.svg?branch=master)](https://travis-ci.com/Cardiogram/frontend-interview-project) [![Greenkeeper badge](https://badges.greenkeeper.io/Cardiogram/frontend-interview-project.svg)](https://greenkeeper.io/)
 
 # Cardiogram Frontend Interview
 
