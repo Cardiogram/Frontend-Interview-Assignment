@@ -7,17 +7,29 @@ import './app.css';
 
 // Urls to fetch dummy cardiograms from:
 const CARDIOGRAM_URLS = [
-  { url: 'http://localhost:3000/data/fzcy58.json' },
-  { url: 'http://localhost:3000/data/ilrs66.json' },
-  { url: 'http://localhost:3000/data/m68mee.json' },
-  { url: 'http://localhost:3000/data/hyef26.json' },
-  { url: 'http://localhost:3000/data/u4nyvl.json' },
-  { url: 'http://localhost:3000/data/8f7nc7.json' },
+  'http://localhost:3000/data/fzcy58.json',
+  'http://localhost:3000/data/ilrs66.json',
+  'http://localhost:3000/data/m68mee.json',
+  'http://localhost:3000/data/hyef26.json',
+  'http://localhost:3000/data/u4nyvl.json',
+  'http://localhost:3000/data/8f7nc7.json',
 ];
 
-// For a more accurate API of Cardiogram, you can use:
-// https://cardiogram-dev.herokuapp.com/heart/cardiograms/preview/cardiograms/%7B%22_terms%22%3A%5B%7B%22type%22%3A%22CARDIOGRAM_TYPES%22%2C%22value%22%3A%5B%22WORKOUT%22%2C%22DAILY_SUMMARY%22%2C%22DIALOG%22%2C%22WEEK_IN_REVIEW%22%5D%7D%5D%2C%22limit%22%3A2%2C%22offset%22%3A0%2C%22orderBy%22%3A%22start%22%2C%22ascOrDesc%22%3A%22DESC%22%7D?_=1521175601757
+// For a more accurate API of Cardiogram, you can use the DEMO_URL.
 // This response preview response data will also return segments.
+const DEMO_URL = 'http://localhost:3000/data/preview.json';
+
+function fetchCardiograms(url) {
+  return fetch(url).then((response) =>
+    response
+      .json()
+      .then((data) =>
+        Array.isArray(data.cardiograms)
+          ? data.cardiograms.map((c) => new Cardiogram(c))
+          : new Cardiogram(data.cardiogram),
+      ),
+  );
+}
 
 /**
  * Base App component
@@ -32,26 +44,27 @@ class App extends Component {
   }
 
   componentDidMount() {
-    Promise.all(CARDIOGRAM_URLS.map((c) => this.fetchData(c))).then(
+    // Fetch from local.
+    Promise.all(CARDIOGRAM_URLS.map((url) => fetchCardiograms(url))).then(
       (cardiograms) => {
         this.setState({ isLoading: false, cardiograms });
       },
     );
-  }
 
-  fetchData(c) {
-    return fetch(c.url).then((response) =>
-      response.json().then((data) => new Cardiogram(data.cardiogram)),
-    );
+    // Fetch from demo url.
+    // fetchCardiograms(DEMO_URL).then((cardiograms) => {
+    //   this.setState({ isLoading: false, cardiograms });
+    // });
   }
 
   render() {
+    const { isLoading, cardiograms } = this.state;
     return (
       <section className="app">
-        {this.state.isLoading && 'Loading...'}
-        {!this.state.isLoading &&
-          this.state.cardiograms.map((c) => (
-            <div key={c.title} className="cardiogram">
+        {isLoading && 'Loading...'}
+        {!isLoading &&
+          cardiograms.map((c) => (
+            <div key={c.uuid} className="cardiogram">
               <h3 className="cardiogram-title">{c.title}</h3>
               <BarChart cardiogram={c} />
             </div>

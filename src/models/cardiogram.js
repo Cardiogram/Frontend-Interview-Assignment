@@ -8,5 +8,7 @@ export default class Cardiogram {
     this.data = card.song.lines.heartRate._line;
     this.start = cardiogram.start;
     this.end = cardiogram.end;
+    this.uuid = cardiogram.uuid || this.title;
+    this.internalSegments = card.song.internalSegments || [];
   }
 }

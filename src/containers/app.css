@@ -18,6 +18,8 @@
 
 .cardiogram-title {
   color: var(--title-color);
+  margin: 0;
+  padding: 1rem;
 }
 
 @keyframes fadeInUp {

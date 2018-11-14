@@ -15,6 +15,7 @@ body {
   line-height: 1.6;
   color: var(--text-color);
   background-color: var(--background-grey);
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
 }
 
 *,
@@ -23,8 +24,9 @@ body {
   box-sizing: inherit;
 }
 
-// Links
-//––––––––––––––––––––––––––––––––––––––––––––––––––
+/**
+ * Links
+ */
 a {
   color: var(--brand-blue);
   text-decoration: none;
@@ -41,18 +43,17 @@ button {
   }
 }
 
-// Typography
-//––––––––––––––––––––––––––––––––––––––––––––––––––
-
+/**
+ * Typography
+ */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-family: $roboto-font;
-  font-weight: 300;
-  color: $title-color;
+  font-weight: 700;
+  color: var(--title-color);
   margin-top: 0;
   margin-bottom: 2rem;
 }
@@ -115,8 +116,9 @@ code {
   background: #f8f8f8;
 }
 
-// Images
-//––––––––––––––––––––––––––––––––––––––––––––––––––
+/**
+ * Images
+ */
 figure {
   margin: 0;
 }
