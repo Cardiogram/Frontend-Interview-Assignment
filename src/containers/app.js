@@ -17,7 +17,7 @@ const CARDIOGRAM_URLS = [
 
 // For a more accurate API of Cardiogram, you can use the DEMO_URL.
 // This response preview response data will also return segments.
-const DEMO_URL = 'http://localhost:3000/data/preview.json';
+// const DEMO_URL = 'http://localhost:3000/data/preview.json';
 
 function fetchCardiograms(url) {
   return fetch(url).then((response) =>
