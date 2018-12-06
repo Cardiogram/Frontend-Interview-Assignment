@@ -13,6 +13,8 @@ const CARDIOGRAM_URLS = [
   'http://localhost:3000/data/hyef26.json',
   'http://localhost:3000/data/u4nyvl.json',
   'http://localhost:3000/data/8f7nc7.json',
+  'http://localhost:3000/data/tcy39xm2.json',
+  'http://localhost:3000/data/preview.json',
 ];
 
 // For a more accurate API of Cardiogram, you can use the DEMO_URL.
