@@ -31,7 +31,7 @@
             {
               "uuid": "dae2ed3",
               "name": "sleep",
-              "start": 1464376800000,
+              "start": 1464333600000,
               "end": 1464343200000,
               "source": "journal",
               "isHighlight": false,
