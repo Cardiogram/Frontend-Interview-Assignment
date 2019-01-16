@@ -126,3 +126,18 @@ figure {
 img {
   max-width: 100%;
 }
+
+/**
+ * Helper classes.
+ */
+.text-left {
+  text-align: left;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-right {
+  text-align: right;
+}
