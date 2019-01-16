@@ -1,0 +1,7 @@
+.metrics {
+  padding: 20px;
+}
+
+.metrics img {
+  object-fit: cover;
+}

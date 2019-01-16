@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import fetch from 'isomorphic-fetch';
 
-import Cardiogram from '../models/cardiogram';
-import BarChart from '../components/chart/bar-chart';
-import './app.css';
+import Cardiogram from '../../models/cardiogram';
+import BarChart from '../../components/chart/bar-chart';
+import Loading from '../../components/loading/loading';
+import Card from '../../components/card/card';
+import './timeline.css';
 
 // Urls to fetch dummy cardiograms from:
 const CARDIOGRAM_URLS = [
@@ -36,7 +38,7 @@ function fetchCardiograms(url) {
 /**
  * Base App component
  */
-class App extends Component {
+class TimelinePage extends Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -62,18 +64,17 @@ class App extends Component {
   render() {
     const { isLoading, cardiograms } = this.state;
     return (
-      <section className="app">
-        {isLoading && 'Loading...'}
+      <section className="timeline">
+        {isLoading && <Loading />}
         {!isLoading &&
           cardiograms.map((c) => (
-            <div key={c.uuid} className="cardiogram">
-              <h3 className="cardiogram-title">{c.title}</h3>
+            <Card title={c.title} key={c.uuid}>
               <BarChart cardiogram={c} />
-            </div>
+            </Card>
           ))}
       </section>
     );
   }
 }
 
-export default App;
+export default TimelinePage;

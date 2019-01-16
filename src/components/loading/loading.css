@@ -1,0 +1,44 @@
+/**
+ * Animated three dots for loading icon.
+ */
+.loading {
+  display: block;
+  margin: 0 auto;
+  width: 70px;
+  text-align: center;
+}
+
+.loading-center {
+  transform: translateY(30vh);
+}
+
+.loading > span {
+  display: block;
+  margin-right: 2px;
+  width: 10px;
+  height: 10px;
+  background-color: #bcc0c8;
+
+  border-radius: 100%;
+  display: inline-block;
+  animation: sk-bouncedelay 1.4s infinite ease-in-out both;
+}
+
+.loading .bounce1 {
+  animation-delay: -0.32s;
+}
+
+.loading .bounce2 {
+  animation-delay: -0.16s;
+}
+
+@keyframes sk-bouncedelay {
+  0%,
+  80%,
+  100% {
+    transform: scale(0);
+  }
+  40% {
+    transform: scale(1);
+  }
+}

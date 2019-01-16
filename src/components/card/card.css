@@ -1,9 +1,4 @@
-.app {
-  text-align: center;
-  padding: 20px;
-}
-
-.cardiogram {
+.card {
   display: flex;
   flex-direction: column;
   height: 300px;
@@ -16,7 +11,7 @@
   animation: fadeInUp 0.5s ease;
 }
 
-.cardiogram-title {
+.card-title {
   color: var(--title-color);
   margin: 0;
   padding: 1rem;

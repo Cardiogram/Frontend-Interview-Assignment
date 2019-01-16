@@ -1,0 +1,78 @@
+.navigation {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: #fff;
+  z-index: 10;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-shadow: 0 0 10px 0 rgba(188, 198, 206, 0.6);
+  animation: fadeInUpSm 1s cubic-bezier(0.55, 0, 0.1, 1);
+}
+
+.navigation-item {
+  text-align: center;
+  padding: 5px 0;
+  transition: transform 0.2s;
+}
+
+.navigation-item:active {
+  transform: scale(0.95);
+}
+
+.navigation-item:focus {
+  outline: none;
+}
+
+.navigation-item > .icon > svg {
+  height: 28px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 5px;
+}
+
+.navigation-item-text {
+  text-transform: capitalize;
+  font-size: 1.3rem;
+  display: block;
+  color: var(--brand-black);
+  transition: color 0.333s ease;
+}
+
+.navigation-item.active .navigation-item-text {
+  color: var(--brand-primary);
+}
+
+.navigation-item.active .icon > svg path {
+  stroke: var(--brand-primary);
+}
+
+.navigation-item.active.metrics path {
+  fill: var(--brand-primary);
+}
+
+.navigation-item.active.habits .lightning {
+  fill: var(--brand-primary);
+}
+
+.navigation-item.active.care .dots {
+  fill: var(--brand-primary);
+}
+
+.navigation-item.active.premium polygon {
+  stroke: var(--brand-primary);
+}
+
+@keyframes fadeInUpSm {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 15px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
