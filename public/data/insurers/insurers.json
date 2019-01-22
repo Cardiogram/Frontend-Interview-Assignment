@@ -1,0 +1,4258 @@
+[
+  {
+    "name": "1199 National Benefit Fund",
+    "payerId": 13162
+  },
+  {
+    "name": "4Most",
+    "payerId": 61425
+  },
+  {
+    "name": "AARP Medicare Supplement/Fixed Indemnity by UnitedHealthcare",
+    "payerId": 36273
+  },
+  {
+    "name": "AARP MedicareComplete by SecureHorizons",
+    "payerId": 87726
+  },
+  {
+    "name": "Abri Health Plan",
+    "payerId": "ABRI1"
+  },
+  {
+    "name": "Absolute Total Care",
+    "payerId": 68069
+  },
+  {
+    "name": "Ace Industries - Medicaid Washington DC",
+    "payerId": "SKDC0"
+  },
+  {
+    "name": "Acordia National",
+    "payerId": 87815
+  },
+  {
+    "name": "ACS Benefit Services, Inc. ",
+    "payerId": 72467
+  },
+  {
+    "name": "ACS Consulting Services",
+    "payerId": 72467
+  },
+  {
+    "name": "Administrative Enterprises",
+    "payerId": "SB530"
+  },
+  {
+    "name": "Administrative Services, Inc ",
+    "payerId": 59141
+  },
+  {
+    "name": "Advantage by Bridgeway Health Solutions",
+    "payerId": 68056
+  },
+  {
+    "name": "Advantage by Buckeye Community Health Plan",
+    "payerId": 68056
+  },
+  {
+    "name": "Advantage by Managed Health Services",
+    "payerId": 68056
+  },
+  {
+    "name": "Advantage by Superior HealthPlan",
+    "payerId": 68056
+  },
+  {
+    "name": "Aetna",
+    "payerId": 60054
+  },
+  {
+    "name": "Aetna Better Health",
+    "payerId": 60054
+  },
+  {
+    "name": "Aetna Better Health - IL Medicaid",
+    "payerId": 26337
+  },
+  {
+    "name": "Aetna Better Health - PA",
+    "payerId": 23228
+  },
+  {
+    "name": "Aetna Better Health NY",
+    "payerId": 34734
+  },
+  {
+    "name": "Aetna Better Health NY Medicaid",
+    "payerId": 34734
+  },
+  {
+    "name": "Aetna Better Health of California",
+    "payerId": "128CA"
+  },
+  {
+    "name": "Aetna Better Health of Florida",
+    "payerId": "128FL"
+  },
+  {
+    "name": "Aetna Better Health of Kentucky",
+    "payerId": "128KY"
+  },
+  {
+    "name": "Aetna Better Health of Louisiana",
+    "payerId": "128LA"
+  },
+  {
+    "name": "Aetna Better Health of Maryland",
+    "payerId": "128MD"
+  },
+  {
+    "name": "Aetna Better Health of Michigan",
+    "payerId": "128MI"
+  },
+  {
+    "name": "Aetna Better Health of New Jersey",
+    "payerId": 46320
+  },
+  {
+    "name": "Aetna Better Health of New York",
+    "payerId": 34734
+  },
+  {
+    "name": "Aetna Better Health of Ohio",
+    "payerId": 50023
+  },
+  {
+    "name": "Aetna Better Health of Virginia",
+    "payerId": "128VA"
+  },
+  {
+    "name": "Aetna Better Health of West Virginia",
+    "payerId": "128WV"
+  },
+  {
+    "name": "Aetna Medicare Advantage",
+    "payerId": 60054
+  },
+  {
+    "name": "Aetna Senior Supplemental Insurance",
+    "payerId": 60054
+  },
+  {
+    "name": "Aetna Student Health",
+    "payerId": 60054
+  },
+  {
+    "name": "Aetna TX Medicaid & CHIP",
+    "payerId": 38692
+  },
+  {
+    "name": "Affinity Essentials",
+    "payerId": 23334
+  },
+  {
+    "name": "Affinity Health Plan",
+    "payerId": 13334
+  },
+  {
+    "name": "Affinity Medicaid",
+    "payerId": 13334
+  },
+  {
+    "name": "AFTRA Health Plans",
+    "payerId": 62308
+  },
+  {
+    "name": "Agate Resources, Inc (LIPA)",
+    "payerId": 68069
+  },
+  {
+    "name": "Albuquerque JPPO - New Mexico ",
+    "payerId": 62308
+  },
+  {
+    "name": "Albuquerque PPO - New Mexico ",
+    "payerId": 62308
+  },
+  {
+    "name": "All Savers Insurance Co.",
+    "payerId": 81400
+  },
+  {
+    "name": "Allied Benefit Systems",
+    "payerId": 37308
+  },
+  {
+    "name": "Alta Health & Life Insurance Company",
+    "payerId": 80705
+  },
+  {
+    "name": "Ambetter from Managed Health Services (MHS)",
+    "payerId": 68069
+  },
+  {
+    "name": "Ambetter of Arkansas",
+    "payerId": 68069
+  },
+  {
+    "name": "Ambetter of Indiana",
+    "payerId": 68069
+  },
+  {
+    "name": "AmeriBen Solutions, Inc. ",
+    "payerId": 75137
+  },
+  {
+    "name": "America's PPO/America's TPA",
+    "payerId": 41178
+  },
+  {
+    "name": "Americaid Community Care (Dallas/Fort Worth)",
+    "payerId": 27514
+  },
+  {
+    "name": "Americaid Community Care (Illinois)",
+    "payerId": 27514
+  },
+  {
+    "name": "Americaid Community Care Maryland",
+    "payerId": 27514
+  },
+  {
+    "name": "Americaid Community Care New Jersey",
+    "payerId": 27514
+  },
+  {
+    "name": "American Administrative Group",
+    "payerId": 37283
+  },
+  {
+    "name": "American Administrative Group-AAG (formerly Gallagher Benefits)",
+    "payerId": 37283
+  },
+  {
+    "name": "American Eldercare",
+    "payerId": 61101
+  },
+  {
+    "name": "American Family Insurance Company",
+    "payerId": "Z0090"
+  },
+  {
+    "name": "American Medical Security, Inc. ",
+    "payerId": 81400
+  },
+  {
+    "name": "American National Insurance Co (ANICO)",
+    "payerId": 74048
+  },
+  {
+    "name": "American Postal Workers Union (APWU)",
+    "payerId": 44444
+  },
+  {
+    "name": "American Postal Workers Union (APWU) ",
+    "payerId": 44445
+  },
+  {
+    "name": "American Republic Insurance Company (ARIC)",
+    "payerId": 42011
+  },
+  {
+    "name": "American Retirement Life Insurance Company",
+    "payerId": 13193
+  },
+  {
+    "name": "Americas PPO ARAZ Group",
+    "payerId": 41178
+  },
+  {
+    "name": "Americhoice by UnitedHealthcare",
+    "payerId": 87726
+  },
+  {
+    "name": "Americhoice of Maryland",
+    "payerId": 87726
+  },
+  {
+    "name": "Americhoice of Nebraska",
+    "payerId": 87726
+  },
+  {
+    "name": "Americhoice of New Jersey",
+    "payerId": 86047
+  },
+  {
+    "name": "AmeriChoice of New Jersey Personal Care Plus (NJ Medicare)",
+    "payerId": 86047
+  },
+  {
+    "name": "Americhoice of New York and Upstate",
+    "payerId": 87726
+  },
+  {
+    "name": "AmeriChoice of New York Personal Care Plus (Medicare)",
+    "payerId": 87726
+  },
+  {
+    "name": "Americhoice of New York, Inc. (NY Medicaid)",
+    "payerId": 87726
+  },
+  {
+    "name": "Americhoice of Texas",
+    "payerId": 87726
+  },
+  {
+    "name": "Americhoice of Wisconsin",
+    "payerId": 87726
+  },
+  {
+    "name": "Americhoice Tenncare",
+    "payerId": 95378
+  },
+  {
+    "name": "Amerigroup  Corporation (Houston)",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup - MD/DC",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup (Dallas/Ft Worth)",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup (San Antonio)",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup (Tenncare Select)",
+    "payerId": 27514
+  },
+  {
+    "name": "AMERIGROUP CORPORATION",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup FL/ Physicians HealthCare Plans",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Georgia",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Health Plus NY",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Houston",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Illinois",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Iowa",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Louisiana",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup New Mexico",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup of Kansas Kansas (Kansas Medicaid)",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup of Kansas, Inc. ",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Tennessee",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup TX",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup VA",
+    "payerId": 27514
+  },
+  {
+    "name": "Amerigroup Washington",
+    "payerId": 27514
+  },
+  {
+    "name": "AmeriHealth Administrators & Inter-County",
+    "payerId": 54763
+  },
+  {
+    "name": "AmeriHealth Caritas Iowa",
+    "payerId": 77075
+  },
+  {
+    "name": "AmeriHealth Caritas Louisiana",
+    "payerId": 27357
+  },
+  {
+    "name": "AmeriHealth Caritas Pennsylvania",
+    "payerId": 22248
+  },
+  {
+    "name": "AmeriHealth Caritas VIP Care",
+    "payerId": 77062
+  },
+  {
+    "name": "AmeriHealth HMO",
+    "payerId": 54763
+  },
+  {
+    "name": "Amerihealth Medi-Gap Plans",
+    "payerId": 54704
+  },
+  {
+    "name": "AmeriHealth Mercy Health Plan",
+    "payerId": 22248
+  },
+  {
+    "name": "AmeriHealth NorthEast",
+    "payerId": 77001
+  },
+  {
+    "name": "Antares Management Solutions Westlake OH",
+    "payerId": 34192
+  },
+  {
+    "name": "Anthem BCBS of Ohio",
+    "payerId": "ZBOH0"
+  },
+  {
+    "name": "Anthem HealthKeepers Medicare Advantage",
+    "payerId": 27514
+  },
+  {
+    "name": "Anthem Healthy Indiana",
+    "payerId": "ZBIN0"
+  },
+  {
+    "name": "Anthem Hoosier Healthwise",
+    "payerId": "ZBIN0"
+  },
+  {
+    "name": "APWU Health Plan (All States Except USVI)",
+    "payerId": 62308
+  },
+  {
+    "name": "Arizona Access Health choice",
+    "payerId": 62179
+  },
+  {
+    "name": "Arizona Complete Health",
+    "payerId": 68069
+  },
+  {
+    "name": "Arizona Physicians IPA (UHC) Community Plan",
+    "payerId": 3432
+  },
+  {
+    "name": "ASR Corporation",
+    "payerId": 38265
+  },
+  {
+    "name": "ASR Health Benefits",
+    "payerId": 38265
+  },
+  {
+    "name": "Associated Benefits Corporation",
+    "payerId": "SB640"
+  },
+  {
+    "name": "Asuris Northwest Health",
+    "payerId": 93221
+  },
+  {
+    "name": "Atlanticare Administrators Inc",
+    "payerId": 22099
+  },
+  {
+    "name": "AultCare",
+    "payerId": "Z1224"
+  },
+  {
+    "name": "Automated Benefit Services",
+    "payerId": 38259
+  },
+  {
+    "name": "Avera Health Plans",
+    "payerId": 46045
+  },
+  {
+    "name": "AVMA Group Health and Life Insurance Trust",
+    "payerId": 79480
+  },
+  {
+    "name": "AvMed",
+    "payerId": 59274
+  },
+  {
+    "name": "Azeros Health Care",
+    "payerId": 16644
+  },
+  {
+    "name": "BABB Absence Management Services",
+    "payerId": 13265
+  },
+  {
+    "name": "Bankers United Life",
+    "payerId": 74227
+  },
+  {
+    "name": "Banner Health",
+    "payerId": "12X42"
+  },
+  {
+    "name": "Banner - University Family Care (University of Arizona Health Plans)",
+    "payerId": 66901
+  },
+  {
+    "name": "BCBS Medicaid Managed Care",
+    "payerId": 27514
+  },
+  {
+    "name": "BCBS Medicare Advantage Plans",
+    "payerId": 66006
+  },
+  {
+    "name": "BCBS of Alabama",
+    "payerId": "SB510"
+  },
+  {
+    "name": "BCBS of Arizona",
+    "payerId": "SB530"
+  },
+  {
+    "name": "BCBS of Arkansas",
+    "payerId": "SB520"
+  },
+  {
+    "name": "BCBS of Colorado",
+    "payerId": "SB550"
+  },
+  {
+    "name": "BCBS of Connecticut - Anthem",
+    "payerId": "SB560"
+  },
+  {
+    "name": "BCBS of DC and National Capital Area",
+    "payerId": "SB580"
+  },
+  {
+    "name": "BCBS of Delaware",
+    "payerId": "SB570"
+  },
+  {
+    "name": "BCBS of Florida",
+    "payerId": "SB590"
+  },
+  {
+    "name": "BCBS of Georgia Columbus",
+    "payerId": "SB601"
+  },
+  {
+    "name": "BCBS of Hawaii",
+    "payerId": "SB971"
+  },
+  {
+    "name": "BCBS of Illinois",
+    "payerId": "SB621"
+  },
+  {
+    "name": "BCBS of Indiana",
+    "payerId": "ZBIN0"
+  },
+  {
+    "name": "BCBS of Iowa - Wellmark",
+    "payerId": "SB640"
+  },
+  {
+    "name": "BCBS of Kansas",
+    "payerId": "SB650"
+  },
+  {
+    "name": "BCBS of Kansas City",
+    "payerId": "SB740"
+  },
+  {
+    "name": "BCBS of Kentucky",
+    "payerId": "ZBKY0"
+  },
+  {
+    "name": "BCBS of Louisiana",
+    "payerId": "SB670"
+  },
+  {
+    "name": "BCBS of Maine",
+    "payerId": "SB680"
+  },
+  {
+    "name": "BCBS of Maryland - CareFirst",
+    "payerId": "SB690"
+  },
+  {
+    "name": "BCBS of Massachusetts",
+    "payerId": "SB700"
+  },
+  {
+    "name": "BCBS of Michigan",
+    "payerId": "SB710"
+  },
+  {
+    "name": "BCBS of Minnesota",
+    "payerId": "SB720"
+  },
+  {
+    "name": "BCBS of Mississippi",
+    "payerId": "SB730"
+  },
+  {
+    "name": "BCBS of Missouri",
+    "payerId": "SB741"
+  },
+  {
+    "name": "BCBS of Nebraska",
+    "payerId": "SB760"
+  },
+  {
+    "name": "BCBS of Nevada",
+    "payerId": "SB765"
+  },
+  {
+    "name": "BCBS of New Hampshire",
+    "payerId": "SB770"
+  },
+  {
+    "name": "BCBS of New Jersey",
+    "payerId": 22099
+  },
+  {
+    "name": "BCBS of New Mexico",
+    "payerId": "SB790"
+  },
+  {
+    "name": "BCBS of New York Central Syracuse",
+    "payerId": "SB805"
+  },
+  {
+    "name": "BCBS of New York Empire",
+    "payerId": "SB803"
+  },
+  {
+    "name": "BCBS of New York Northeastern",
+    "payerId": "SB800"
+  },
+  {
+    "name": "BCBS of New York Rochester",
+    "payerId": "SB804"
+  },
+  {
+    "name": "BCBS of New York Utica-Watertown",
+    "payerId": "SB806"
+  },
+  {
+    "name": "BCBS of New York Western",
+    "payerId": "SB801"
+  },
+  {
+    "name": "BCBS of North Carolina",
+    "payerId": "SB810"
+  },
+  {
+    "name": "BCBS of North Dakota",
+    "payerId": "SB820"
+  },
+  {
+    "name": "BCBS of Oklahoma",
+    "payerId": "SB840"
+  },
+  {
+    "name": "BCBS of Pennsylvania - Highmark",
+    "payerId": "SB865"
+  },
+  {
+    "name": "BCBS of Puerto Rico",
+    "payerId": "Z0065"
+  },
+  {
+    "name": "BCBS of Rhode Island",
+    "payerId": 7420
+  },
+  {
+    "name": "BCBS of South Carolina",
+    "payerId": "SB880"
+  },
+  {
+    "name": "BCBS of South Dakota",
+    "payerId": 2490
+  },
+  {
+    "name": "BCBS of Tennessee Chattanooga",
+    "payerId": "SB890"
+  },
+  {
+    "name": "BCBS of Texas",
+    "payerId": "SB900"
+  },
+  {
+    "name": "BCBS of Utah - Regence",
+    "payerId": "SB910"
+  },
+  {
+    "name": "BCBS of Vermont",
+    "payerId": "SB915"
+  },
+  {
+    "name": "BCBS of Virginia - Anthem",
+    "payerId": "SB923"
+  },
+  {
+    "name": "BCBS of Washington - Regence",
+    "payerId": 7451
+  },
+  {
+    "name": "BCBS of West Virginia - Mountain State",
+    "payerId": "SB941"
+  },
+  {
+    "name": "BCBS of Wisconsin",
+    "payerId": "SB950"
+  },
+  {
+    "name": "BCBS of Wyoming",
+    "payerId": "SB960"
+  },
+  {
+    "name": "BCBS Texas Medicaid (DOS on or after 12/01/15)",
+    "payerId": 66001
+  },
+  {
+    "name": "BCBS Texas-Medicaid/STAR",
+    "payerId": 66001
+  },
+  {
+    "name": "BCBS Utah - FEP ",
+    "payerId": "SB910"
+  },
+  {
+    "name": "BCBS Western New York Medicaid/CHP",
+    "payerId": 246
+  },
+  {
+    "name": "Behavioral Health Systems",
+    "payerId": 63100
+  },
+  {
+    "name": "Belton (BISD)",
+    "payerId": 88030
+  },
+  {
+    "name": "Benefit Trust Life",
+    "payerId": 61425
+  },
+  {
+    "name": "Benesight",
+    "payerId": 39026
+  },
+  {
+    "name": "Beth Israel IPA",
+    "payerId": 55247
+  },
+  {
+    "name": "Better Health of Florida",
+    "payerId": 20488
+  },
+  {
+    "name": "Better Health Plans - Three Rivers Administrative Services (TRAS)",
+    "payerId": 87726
+  },
+  {
+    "name": "Better Health Plans of South Carolina",
+    "payerId": 87726
+  },
+  {
+    "name": "Blue Benefit Administrators of MA",
+    "payerId": 3036
+  },
+  {
+    "name": "Blue Choice Health Plan of South Carolina",
+    "payerId": "SB884"
+  },
+  {
+    "name": "Blue Choice Medicaid Managed Care",
+    "payerId": "Z1248"
+  },
+  {
+    "name": "Blue Choice Medicaid of South Carolina",
+    "payerId": "Z1248"
+  },
+  {
+    "name": "Blue Cross Community Family Health Plan",
+    "payerId": "SB621"
+  },
+  {
+    "name": "Blue Cross Community Family Health PlanSM (FHP)",
+    "payerId": "MCDIL"
+  },
+  {
+    "name": "Blue Cross Community ICP (Integrated Care Plan)",
+    "payerId": "MCDIL"
+  },
+  {
+    "name": "Blue Cross Community MMAI (Medicare-Medicaid Plan)",
+    "payerId": "MCDIL"
+  },
+  {
+    "name": "Blue Cross Community Option/66005",
+    "payerId": "MCDIL"
+  },
+  {
+    "name": "Blue Cross Independence (Pennsylvania)",
+    "payerId": 54704
+  },
+  {
+    "name": "Blue Cross of Alaska and Washington - Premera",
+    "payerId": "SB930"
+  },
+  {
+    "name": "Blue Cross of California",
+    "payerId": "SB040"
+  },
+  {
+    "name": "Blue Cross of Idaho (BC)",
+    "payerId": "ZBID0"
+  },
+  {
+    "name": "Blue Cross of Pennsylvania CAIC - Capital (BC)",
+    "payerId": 23045
+  },
+  {
+    "name": "Blue Medicare North Carolina",
+    "payerId": 7472
+  },
+  {
+    "name": "Blue Shield of California",
+    "payerId": "SB542"
+  },
+  {
+    "name": "BlueLink TPA",
+    "payerId": "SB720"
+  },
+  {
+    "name": "Boston Medical Center Health Plan",
+    "payerId": 13337
+  },
+  {
+    "name": "Boston Medical Center Healthnet",
+    "payerId": 13337
+  },
+  {
+    "name": "Bravo Health ",
+    "payerId": 52192
+  },
+  {
+    "name": "BridgeSpan",
+    "payerId": "BRIDG"
+  },
+  {
+    "name": "Bridgeway Arizona",
+    "payerId": 68054
+  },
+  {
+    "name": "Bryan Independent School",
+    "payerId": "SB900"
+  },
+  {
+    "name": "California Health & Wellness",
+    "payerId": 68047
+  },
+  {
+    "name": "California Health & Wellness ",
+    "payerId": 68069
+  },
+  {
+    "name": "Capital Blue Cross of PA",
+    "payerId": 23045
+  },
+  {
+    "name": "Capital District Physician's Health Plan (CDPHP)",
+    "payerId": "SX065"
+  },
+  {
+    "name": "Capitol Administrators",
+    "payerId": 68011
+  },
+  {
+    "name": "CapRock HealthPlans",
+    "payerId": "CAPHP"
+  },
+  {
+    "name": "Care Improvement Plus",
+    "payerId": 87726
+  },
+  {
+    "name": "Care Improvement Plus (CIP)",
+    "payerId": 77082
+  },
+  {
+    "name": "Care Oregon",
+    "payerId": "Z1060"
+  },
+  {
+    "name": "Care Source (OH)",
+    "payerId": 31114
+  },
+  {
+    "name": "CareFirst",
+    "payerId": "SB570"
+  },
+  {
+    "name": "Caremore",
+    "payerId": "CARMO"
+  },
+  {
+    "name": "CareMore Health Plan",
+    "payerId": "CARMO"
+  },
+  {
+    "name": "Careplus",
+    "payerId": 95092
+  },
+  {
+    "name": "CarePlus Health Plan",
+    "payerId": 65031
+  },
+  {
+    "name": "CarePlus Health Plans (Claims)",
+    "payerId": 95092
+  },
+  {
+    "name": "caresource",
+    "payerId": 31114
+  },
+  {
+    "name": "Caresource KY (Humana)",
+    "payerId": "KYCS1"
+  },
+  {
+    "name": "Caresource KY Marketplace",
+    "payerId": "KYCS1"
+  },
+  {
+    "name": "Carolina Care Plan",
+    "payerId": "SX057"
+  },
+  {
+    "name": "CBA - National Rural Electric Cooperative",
+    "payerId": 39026
+  },
+  {
+    "name": "CBA Blue/Blue Benefit Administrators",
+    "payerId": 3036
+  },
+  {
+    "name": "CBSA",
+    "payerId": 41124
+  },
+  {
+    "name": "CDS Group Health",
+    "payerId": 88022
+  },
+  {
+    "name": "Celtic Insurance",
+    "payerId": 68063
+  },
+  {
+    "name": "CenCal",
+    "payerId": "Z1243"
+  },
+  {
+    "name": "Cenpatico",
+    "payerId": 68069
+  },
+  {
+    "name": "Cenpatico - Florida",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico - Kansas",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico - Mississippi",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico - Missouri",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico - New Hampshire",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico - Wisconsin",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico -OHIO",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Arizona",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Behavioral Health",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Georgia",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Illinicare",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Indiana",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Kentucky",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Massachusetts",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico South Carolina",
+    "payerId": 68068
+  },
+  {
+    "name": "Cenpatico Texas",
+    "payerId": 68068
+  },
+  {
+    "name": "Centene Advantage Plans",
+    "payerId": 68069
+  },
+  {
+    "name": "CENTENE CORPORATION",
+    "payerId": 68068
+  },
+  {
+    "name": "CENTENE IL CENPATICO",
+    "payerId": 68068
+  },
+  {
+    "name": "CENTENE IL ILLINICARE HEALTH PLAN",
+    "payerId": 68068
+  },
+  {
+    "name": "CENTENE IN MANAGED HEALTH SERVICES",
+    "payerId": 68069
+  },
+  {
+    "name": "CENTENE IN MANAGED HEALTH SERVICES IN",
+    "payerId": 39186
+  },
+  {
+    "name": "CENTENE MA CELTICARE HEALTH PLAN",
+    "payerId": 68069
+  },
+  {
+    "name": "CENTENE WA - COORDINATED CARE CORP",
+    "payerId": 68069
+  },
+  {
+    "name": "CenterLight Healthcare",
+    "payerId": 13360
+  },
+  {
+    "name": "Central California Alliance for Health",
+    "payerId": "SX169"
+  },
+  {
+    "name": "Central Reserve Life Ins Co- Medicare Supplement",
+    "payerId": 13193
+  },
+  {
+    "name": "Central Reserve Life Insurance Company",
+    "payerId": 13193
+  },
+  {
+    "name": "Central States Health & Welfare Funds",
+    "payerId": 36215
+  },
+  {
+    "name": "Centurion ",
+    "payerId": 68069
+  },
+  {
+    "name": "CGLIC, Milwaukee ",
+    "payerId": 62308
+  },
+  {
+    "name": "CHAMPVA/VA-HAC",
+    "payerId": 84146
+  },
+  {
+    "name": "Chicago Laborers Health & Welfare Fund",
+    "payerId": "SB621"
+  },
+  {
+    "name": "Chickering Group",
+    "payerId": 60054
+  },
+  {
+    "name": "Child Health and Disability Prevention",
+    "payerId": 68047
+  },
+  {
+    "name": "Child Health Plus",
+    "payerId": 13334
+  },
+  {
+    "name": "Childhealth Plus by Healthfirst (CHP)",
+    "payerId": 80141
+  },
+  {
+    "name": "Children of Women Vietnam Veterans - VA HAC",
+    "payerId": 84146
+  },
+  {
+    "name": "Childrens Community Health plan - Dean",
+    "payerId": 39113
+  },
+  {
+    "name": "Choice One/UTMB CHIP Health Plan",
+    "payerId": 87726
+  },
+  {
+    "name": "Christian Brothers Services",
+    "payerId": 38308
+  },
+  {
+    "name": "Christus Health Medicare Advantage",
+    "payerId": 10629
+  },
+  {
+    "name": "Christus Health NM HIX",
+    "payerId": 21062
+  },
+  {
+    "name": "CIGNA (Connecticut General, Equicor, Equitable) ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna (Connecticut General) ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Behavioral Health ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna for Health Care ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Great West",
+    "payerId": 80705
+  },
+  {
+    "name": "Cigna Health Plan - Atlanta ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Chicago",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Cigna Premier Plus",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Cincinnati ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Cleveland",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Columbus",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - COMED",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Connecticut",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Dallas",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Dayton",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Delaware",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Denver",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Georgia",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - HMO ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - HMO (CHP)",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Houston",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Kansas City",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Knoxville PPO",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Los Angeles",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Louisiana",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Massachusetts",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Memphis",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Mid Atlantic",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Nashville",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - New York",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Northern California",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Northern Louisiana",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Oklahoma",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Orlando",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Phoenix",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Raleigh",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Richmond",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Salinas",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Salt Lake City",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - San Francisco",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Southern California",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Southern Florida",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - St. Louis",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Tucson",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Tulsa",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan - Washington",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of California",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of Charlotte",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of Northern New Jersey",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of Pennsylvania",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of San Diego",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of Southern New Jersey",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of St. Louis ",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of Tampa",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plan of Wichita",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Health Plans",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna International Expatriate Benefits",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna PPO",
+    "payerId": 62308
+  },
+  {
+    "name": "Cigna Select (formerly Great West Healthcare)",
+    "payerId": 80705
+  },
+  {
+    "name": "Cigna-Healthspring",
+    "payerId": 52192
+  },
+  {
+    "name": "City of Chester",
+    "payerId": 56205
+  },
+  {
+    "name": "Claimedix",
+    "payerId": 74048
+  },
+  {
+    "name": "Clark County Self Funded NV",
+    "payerId": 23223
+  },
+  {
+    "name": "Colorado Access (Denver, CO) ",
+    "payerId": 84129
+  },
+  {
+    "name": "Community Connect HealthPlan",
+    "payerId": "SB950"
+  },
+  {
+    "name": "Community Health Electronic Claims/CHEC/webTPA",
+    "payerId": 75261
+  },
+  {
+    "name": "Community Health Group",
+    "payerId": "Z1700"
+  },
+  {
+    "name": "Community Health Plan of DE",
+    "payerId": 87726
+  },
+  {
+    "name": "Community Health Plan of PA ",
+    "payerId": 87726
+  },
+  {
+    "name": "Community Health Plan of Washington",
+    "payerId": "CMTWA"
+  },
+  {
+    "name": "Community Preferred Health Plan",
+    "payerId": 39026
+  },
+  {
+    "name": "Companion Healthcare",
+    "payerId": "SB884"
+  },
+  {
+    "name": "Comprehensive Benefits Administrator Inc",
+    "payerId": 3036
+  },
+  {
+    "name": "Concentrix Insurance Solutions",
+    "payerId": "Z95754"
+  },
+  {
+    "name": "Connecticare - Medicare",
+    "payerId": 78375
+  },
+  {
+    "name": "Connecticare - Medicare (CCI VIP Medicare Advantage)",
+    "payerId": 78375
+  },
+  {
+    "name": "ConnectiCare Inc",
+    "payerId": 6105
+  },
+  {
+    "name": "Connecticut General (Cigna)",
+    "payerId": 62308
+  },
+  {
+    "name": "CONNECTICUT GENERAL LIFE INSURANCE COMPANY",
+    "payerId": 62308
+  },
+  {
+    "name": "CONSOLIDATION COAL COMPANY",
+    "payerId": 3036
+  },
+  {
+    "name": "Consumers Life Insurance Company",
+    "payerId": "SX057"
+  },
+  {
+    "name": "Continental General Insurance Company - Medicare Supplement",
+    "payerId": 13193
+  },
+  {
+    "name": "Cook Children's Health Plan",
+    "payerId": "CCHP1"
+  },
+  {
+    "name": "Cook Children's Star Plan",
+    "payerId": "CCHP9"
+  },
+  {
+    "name": "Cooportunity Health",
+    "payerId": "SX009"
+  },
+  {
+    "name": "CoreSource (Little Rock)",
+    "payerId": 75136
+  },
+  {
+    "name": "CoreSource (OH)",
+    "payerId": 35183
+  },
+  {
+    "name": "CoreSource (PA, MD, IL, NC, IN, AZ, MN) ",
+    "payerId": 35182
+  },
+  {
+    "name": "Coresource of NC",
+    "payerId": 35182
+  },
+  {
+    "name": "Coresource of PA MD IL",
+    "payerId": 35182
+  },
+  {
+    "name": "Corporate Benefit Services of America",
+    "payerId": 41124
+  },
+  {
+    "name": "Cottage Health System",
+    "payerId": 35182
+  },
+  {
+    "name": "County Care",
+    "payerId": 68068
+  },
+  {
+    "name": "County Care - Medical",
+    "payerId": 42139
+  },
+  {
+    "name": "Coventry Cares of Michigan",
+    "payerId": "128MI"
+  },
+  {
+    "name": "Coventry Health Care National Network (First Health Direct)",
+    "payerId": 87043
+  },
+  {
+    "name": "Coventry Health Care of Louisiana Inc",
+    "payerId": 25135
+  },
+  {
+    "name": "Coventry Healthcare National Network",
+    "payerId": 87043
+  },
+  {
+    "name": "Coventry Healthcare of Florida- Long term healthcare only",
+    "payerId": "128FL"
+  },
+  {
+    "name": "CoventryCares of Pennsylvania",
+    "payerId": 23228
+  },
+  {
+    "name": "Crown Life",
+    "payerId": 80705
+  },
+  {
+    "name": "Dean Health Plan",
+    "payerId": 39113
+  },
+  {
+    "name": "Definity Health",
+    "payerId": 87726
+  },
+  {
+    "name": "Definity Health (UnitedHealthcare)",
+    "payerId": 87726
+  },
+  {
+    "name": "Dell Children's Health Plan",
+    "payerId": 74272
+  },
+  {
+    "name": "Denver Health Medical Plan",
+    "payerId": 84135
+  },
+  {
+    "name": "Deseret Protect",
+    "payerId": 39026
+  },
+  {
+    "name": "Driscoll Childrens Health Plan",
+    "payerId": "DCHCH"
+  },
+  {
+    "name": "Durable Medical Equipment [.DME] - Medicaid Louisiana",
+    "payerId": "Z1050"
+  },
+  {
+    "name": "EASTER SEALS BAY AREA",
+    "payerId": "KS003"
+  },
+  {
+    "name": "Eastern Oregon (ORCAID CCO)",
+    "payerId": 13350
+  },
+  {
+    "name": "Eau Claire Health Protection Plan",
+    "payerId": 39026
+  },
+  {
+    "name": "Eau Claire Providers Choice",
+    "payerId": 39026
+  },
+  {
+    "name": "EDS Admin Services",
+    "payerId": 22521
+  },
+  {
+    "name": "EGID (Employees Group Insurance Division)",
+    "payerId": 22521
+  },
+  {
+    "name": "EHC",
+    "payerId": 79480
+  },
+  {
+    "name": "Elder Health Mid-Atlantic Inc",
+    "payerId": 52192
+  },
+  {
+    "name": "Elderplan",
+    "payerId": 31625
+  },
+  {
+    "name": "Emblem Health",
+    "payerId": 13551
+  },
+  {
+    "name": "Emblem HMO",
+    "payerId": 25531
+  },
+  {
+    "name": "EMPIRE HEALTHCHOICE ASSURANCE, INC. ",
+    "payerId": "SB803"
+  },
+  {
+    "name": "Empire Plan",
+    "payerId": 87726
+  },
+  {
+    "name": "Employee Benefit Consultants",
+    "payerId": 37257
+  },
+  {
+    "name": "Employee Benefit Management Corp",
+    "payerId": "Z0011"
+  },
+  {
+    "name": "Employee Benefits Plan Administration Inc (EBPA)",
+    "payerId": 3036
+  },
+  {
+    "name": "Employers Insurance of Wausau",
+    "payerId": 39026
+  },
+  {
+    "name": "Equicor ",
+    "payerId": 62308
+  },
+  {
+    "name": "Equicor Health Plan - Houston",
+    "payerId": 62308
+  },
+  {
+    "name": "Equicor PPO",
+    "payerId": 62308
+  },
+  {
+    "name": "Equicor/Equitable",
+    "payerId": 62308
+  },
+  {
+    "name": "Equitable (CIGNA)",
+    "payerId": 62308
+  },
+  {
+    "name": "Erin Group Administrators (EGA)",
+    "payerId": 23250
+  },
+  {
+    "name": "Essence Healthcare",
+    "payerId": 20818
+  },
+  {
+    "name": "Evercare",
+    "payerId": 87726
+  },
+  {
+    "name": "Every Woman Counts",
+    "payerId": "SKCA0"
+  },
+  {
+    "name": "Excellus BCBS NY Central Syracuse",
+    "payerId": "SB805"
+  },
+  {
+    "name": "Excellus BCBS NY Rochester",
+    "payerId": "SB804"
+  },
+  {
+    "name": "Excellus BCBS NY Utica-Watertown",
+    "payerId": "SB806"
+  },
+  {
+    "name": "ExclusiCare",
+    "payerId": 71412
+  },
+  {
+    "name": "Fallon Community Health Plan",
+    "payerId": "SX072"
+  },
+  {
+    "name": "Family Health Plus",
+    "payerId": 13334
+  },
+  {
+    "name": "Family P.A.C.T.",
+    "payerId": "SKCA0"
+  },
+  {
+    "name": "Fidelis Care New York",
+    "payerId": 11315
+  },
+  {
+    "name": "Fidelis SecureLife Medicare-Medicaid Plan (MMP)",
+    "payerId": 68068
+  },
+  {
+    "name": "First Carolina Care",
+    "payerId": 56196
+  },
+  {
+    "name": "FIRST HEALTH",
+    "payerId": 87043
+  },
+  {
+    "name": "First Seniority Freedom Premier",
+    "payerId": 87726
+  },
+  {
+    "name": "FirstHealth Network",
+    "payerId": 87043
+  },
+  {
+    "name": "Fiserv Health - Wausau Benefits/Benesight",
+    "payerId": 39026
+  },
+  {
+    "name": "Fiserv Health Wausau",
+    "payerId": 39026
+  },
+  {
+    "name": "Florida Healthcare Plan",
+    "payerId": 59322
+  },
+  {
+    "name": "Freedom Blue",
+    "payerId": 15460
+  },
+  {
+    "name": "Gateway Health Plan - Medicare Assured",
+    "payerId": 60550
+  },
+  {
+    "name": "Gateway Health Plan Medicaid PA",
+    "payerId": 25169
+  },
+  {
+    "name": "Gateway Health Plan of Ohio, Inc. ",
+    "payerId": 60550
+  },
+  {
+    "name": "GEHA UHC Integrated VA",
+    "payerId": 39026
+  },
+  {
+    "name": "Geisinger Health Plan",
+    "payerId": 75273
+  },
+  {
+    "name": "General American Life of St. Louis",
+    "payerId": 80705
+  },
+  {
+    "name": "GEOBLUE",
+    "payerId": 54763
+  },
+  {
+    "name": "Gerber Life Medicare Supplement",
+    "payerId": 71412
+  },
+  {
+    "name": "GH Basic Health Plan",
+    "payerId": 91051
+  },
+  {
+    "name": "GH Individual and Family Plan",
+    "payerId": 91051
+  },
+  {
+    "name": "GHC - Commercial",
+    "payerId": 91051
+  },
+  {
+    "name": "GHC Individual Plans",
+    "payerId": 62308
+  },
+  {
+    "name": "GHC Medicare + Choice",
+    "payerId": 91051
+  },
+  {
+    "name": "GHI HMO",
+    "payerId": 25531
+  },
+  {
+    "name": "GIC Indemnity Plan",
+    "payerId": 80314
+  },
+  {
+    "name": "Gilsbar Inc",
+    "payerId": 7205
+  },
+  {
+    "name": "Government Employees Hospital Association (GEHA) (Not VA)",
+    "payerId": 44054
+  },
+  {
+    "name": "Great American Life Ins Co",
+    "payerId": 13193
+  },
+  {
+    "name": "Great American Life Ins Co- Medicare Supplement",
+    "payerId": 13193
+  },
+  {
+    "name": "Great West HealthCare",
+    "payerId": 80705
+  },
+  {
+    "name": "Greater La Crosse Care 65+",
+    "payerId": 39026
+  },
+  {
+    "name": "Greater Wisconsin Rapids Provider Choice",
+    "payerId": 39026
+  },
+  {
+    "name": "Green Bay Health Protection Plan",
+    "payerId": 39026
+  },
+  {
+    "name": "Group and Pension Administrators",
+    "payerId": 48143
+  },
+  {
+    "name": "Group Health Cooperative - East",
+    "payerId": 91051
+  },
+  {
+    "name": "Group Health Cooperative - West",
+    "payerId": 91051
+  },
+  {
+    "name": "Group Health Insurance (GHI) of NY",
+    "payerId": 13551
+  },
+  {
+    "name": "Group Health Options",
+    "payerId": 91051
+  },
+  {
+    "name": "Group Health Options, Incorporated Alliant Plus ",
+    "payerId": 91051
+  },
+  {
+    "name": "Group Practice Affiliates",
+    "payerId": 68068
+  },
+  {
+    "name": "HAP Midwest Health Plan - MI",
+    "payerId": "MHP77"
+  },
+  {
+    "name": "Harken Health",
+    "payerId": 43313
+  },
+  {
+    "name": "Harken Health ",
+    "payerId": 87726
+  },
+  {
+    "name": "Harmony Healthplan",
+    "payerId": 14163
+  },
+  {
+    "name": "Harrington Benefit Services Inc (Formerly Centra",
+    "payerId": 39026
+  },
+  {
+    "name": "Harrington Benefit Services Inc/ UMR",
+    "payerId": 79480
+  },
+  {
+    "name": "Harvard Pilgrim Health Care",
+    "payerId": 4271
+  },
+  {
+    "name": "Harvard Pilgrim Health Care (HPHC) - Student Insurance",
+    "payerId": 74227
+  },
+  {
+    "name": "Hawaii HMSA",
+    "payerId": "SB971"
+  },
+  {
+    "name": "Hawaii Medical Services Association",
+    "payerId": "SB971"
+  },
+  {
+    "name": "HCA",
+    "payerId": 62308
+  },
+  {
+    "name": "HCA Cigna",
+    "payerId": 62308
+  },
+  {
+    "name": "HCH Administration",
+    "payerId": 77950
+  },
+  {
+    "name": "Health Alliance Medical Plans of Illinois",
+    "payerId": 77950
+  },
+  {
+    "name": "Health Alliance Plan of Michigan",
+    "payerId": 38224
+  },
+  {
+    "name": "Health First Health Plans - National",
+    "payerId": 95019
+  },
+  {
+    "name": "Health Future, LLC (AMC) ",
+    "payerId": 246
+  },
+  {
+    "name": "Health Insurance Plan of Greater NY (HIP)",
+    "payerId": 55247
+  },
+  {
+    "name": "Health Net of Arizona",
+    "payerId": 38309
+  },
+  {
+    "name": "Health Net of California and Oregon",
+    "payerId": 95567
+  },
+  {
+    "name": "Health Net of California and Oregon (Individual MA HMO, SNP, and IFP) ",
+    "payerId": 68069
+  },
+  {
+    "name": "Health New England",
+    "payerId": 4286
+  },
+  {
+    "name": "Health Options of Florida",
+    "payerId": "SB590"
+  },
+  {
+    "name": "Health Options Program/HOP",
+    "payerId": 35182
+  },
+  {
+    "name": "Health Partners - Minnesota",
+    "payerId": "SX009"
+  },
+  {
+    "name": "Health Partners South East",
+    "payerId": 63092
+  },
+  {
+    "name": "Health Partners, PA ",
+    "payerId": 80142
+  },
+  {
+    "name": "Health Plan of Nevada",
+    "payerId": 76342
+  },
+  {
+    "name": "Health Plan of San Joaquin",
+    "payerId": 68035
+  },
+  {
+    "name": "Health Plan of San Mateo (CA Medicaid MCO)",
+    "payerId": "HPSM1"
+  },
+  {
+    "name": "Health Plus Physicians Network",
+    "payerId": 27514
+  },
+  {
+    "name": "Health Republic Insurance (OR)",
+    "payerId": 4498
+  },
+  {
+    "name": "Health Spring, Inc ",
+    "payerId": 63092
+  },
+  {
+    "name": "Healthchoice of AZ",
+    "payerId": 62179
+  },
+  {
+    "name": "Healthcomp Inc.",
+    "payerId": 85729
+  },
+  {
+    "name": "Healthease wellcare",
+    "payerId": 14163
+  },
+  {
+    "name": "HealthEZ",
+    "payerId": 41178
+  },
+  {
+    "name": "Healthfirst 65 Plus",
+    "payerId": 80141
+  },
+  {
+    "name": "Healthfirst Family health Plus (FHP)",
+    "payerId": 80141
+  },
+  {
+    "name": "Healthfirst Health Plan of New Jersey",
+    "payerId": 80141
+  },
+  {
+    "name": "HealthFirst of New York",
+    "payerId": 80141
+  },
+  {
+    "name": "Healthfirst PHSP",
+    "payerId": 80141
+  },
+  {
+    "name": "Healthgram Inc",
+    "payerId": 56144
+  },
+  {
+    "name": "Healthgram Inc (formerly known as Primary PhysicianCare Inc)",
+    "payerId": 56144
+  },
+  {
+    "name": "Healthsmart Benefit Solutions, Inc. ",
+    "payerId": 37283
+  },
+  {
+    "name": "HealthSource , AR ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of Arkansas (Medicare)",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of Indiana",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of Kentucky",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of Maine",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of Massachusetts",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of New Hampshire",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of New York",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of North Carolina",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of North Texas",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of Ohio",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of South Carolina",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource of Tennessee",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource Provident",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, GA ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, IN ",
+    "payerId": 62308
+  },
+  {
+    "name": "Healthsource, ME ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, NC ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, NH ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, North Texas ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, OH ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, SC ",
+    "payerId": 62308
+  },
+  {
+    "name": "HealthSource, TN ",
+    "payerId": 62308
+  },
+  {
+    "name": "HEALTHSPRING HMO/HEALTHSPRING MEDICARE+CHOICE",
+    "payerId": 63092
+  },
+  {
+    "name": "HealthSpring of AL, FL, IL, MS, TN, North TX ",
+    "payerId": 63092
+  },
+  {
+    "name": "HealthSpring Star+Plus Only",
+    "payerId": 52192
+  },
+  {
+    "name": "Healthy Blue",
+    "payerId": 27514
+  },
+  {
+    "name": "Hennepin Health",
+    "payerId": 10850
+  },
+  {
+    "name": "Hewlett Packard Enterprises",
+    "payerId": "SKCT0"
+  },
+  {
+    "name": "Hey Health Plan ",
+    "payerId": 39026
+  },
+  {
+    "name": "Highmark Blue Cross Blue Shield West Virginia",
+    "payerId": "SB941"
+  },
+  {
+    "name": "Highmark Senior Health Company",
+    "payerId": 15460
+  },
+  {
+    "name": "HIP MAP MLTC NY",
+    "payerId": 13551
+  },
+  {
+    "name": "HomeFirst - Elderplan NY",
+    "payerId": 31625
+  },
+  {
+    "name": "Hometown Health Plan Nevada",
+    "payerId": 88023
+  },
+  {
+    "name": "Horizon Blue Cross Blue Shield of New Jersey",
+    "payerId": 22099
+  },
+  {
+    "name": "Horizon Mercy",
+    "payerId": 22326
+  },
+  {
+    "name": "Horizon NJ Health",
+    "payerId": 22326
+  },
+  {
+    "name": "HP Administrative Services, LLC ",
+    "payerId": 22521
+  },
+  {
+    "name": "HSBS Memphis",
+    "payerId": 37224
+  },
+  {
+    "name": "Hudson Health Plan",
+    "payerId": 14165
+  },
+  {
+    "name": "Humana",
+    "payerId": 61101
+  },
+  {
+    "name": "Humana (and subsidiaries) claims",
+    "payerId": 61101
+  },
+  {
+    "name": "Humana Behavioral Health - Lifesynch",
+    "payerId": 61101
+  },
+  {
+    "name": "Humana Choice Care Claims (Cincinnati, OH) ",
+    "payerId": 61101
+  },
+  {
+    "name": "Humana Choice Care Encounters (Cincinnati, OH) ",
+    "payerId": 61101
+  },
+  {
+    "name": "Humana gold choice",
+    "payerId": 61101
+  },
+  {
+    "name": "IBA Self Funded Group ",
+    "payerId": 87726
+  },
+  {
+    "name": "IBC Medicare Advantage PPO",
+    "payerId": 54704
+  },
+  {
+    "name": "IBC Personal Choice PPO",
+    "payerId": 54704
+  },
+  {
+    "name": "IDA",
+    "payerId": 54763
+  },
+  {
+    "name": "IlliniCare Behavioral Health",
+    "payerId": 68068
+  },
+  {
+    "name": "IlliniCare Medical",
+    "payerId": 68069
+  },
+  {
+    "name": "Independence Administrators",
+    "payerId": 54763
+  },
+  {
+    "name": "Independence Blue Cross Personal Choice/Blue Card",
+    "payerId": 54704
+  },
+  {
+    "name": "Independent Health",
+    "payerId": "SX073"
+  },
+  {
+    "name": "Indiana Health Network",
+    "payerId": 80705
+  },
+  {
+    "name": "Individual Health Insurance Companies - State Farm-Health Line of Business",
+    "payerId": 31053
+  },
+  {
+    "name": "Inova Care for Seniors",
+    "payerId": "SB700"
+  },
+  {
+    "name": "Integra Group",
+    "payerId": 31127
+  },
+  {
+    "name": "Integrity Health",
+    "payerId": 23223
+  },
+  {
+    "name": "Inter-county Health Plan",
+    "payerId": 54763
+  },
+  {
+    "name": "Intermountain Healthcare (IHC) UT",
+    "payerId": "Z0001"
+  },
+  {
+    "name": "International Union of Operators Engineers Local 15, 15A, 15C, & 15D AFL-CIO",
+    "payerId": 64157
+  },
+  {
+    "name": "Iowa Benefits Inc (IBI)",
+    "payerId": 41124
+  },
+  {
+    "name": "Iowa HealthLink",
+    "payerId": 87726
+  },
+  {
+    "name": "IU Health Plans- One Care",
+    "payerId": "IN432"
+  },
+  {
+    "name": "Jackson PPO",
+    "payerId": 62308
+  },
+  {
+    "name": "Jacksonville PPO",
+    "payerId": 62308
+  },
+  {
+    "name": "John Deere Health Plan",
+    "payerId": 87726
+  },
+  {
+    "name": "Kaiser Foundation Health Plan of Colorado",
+    "payerId": 277
+  },
+  {
+    "name": "Kaiser Foundation Health Plan of Georgia",
+    "payerId": 21313
+  },
+  {
+    "name": "Kaiser Foundation Health Plan of Hawaii",
+    "payerId": 94123
+  },
+  {
+    "name": "Kaiser Foundation Health Plan of Southern CA Region",
+    "payerId": 94134
+  },
+  {
+    "name": "Kaiser Foundation Health Plan of the Mid-Atlantic States, Inc. ",
+    "payerId": 52095
+  },
+  {
+    "name": "Kaiser Foundation Health Plan of Washington",
+    "payerId": 91051
+  },
+  {
+    "name": "Kaiser Permanente (Northern CA)",
+    "payerId": "KS003"
+  },
+  {
+    "name": "Kaiser Permanente (Southern CA)",
+    "payerId": "KS001"
+  },
+  {
+    "name": "Kaiser Permanente of Southern California",
+    "payerId": 94134
+  },
+  {
+    "name": "Kentucky Spirit Health Plan ",
+    "payerId": 68069
+  },
+  {
+    "name": "Kern PPO - California",
+    "payerId": 62308
+  },
+  {
+    "name": "Key Benefit Administrators (Indianapolis, IN) ",
+    "payerId": 37217
+  },
+  {
+    "name": "Key Health Plan",
+    "payerId": 39026
+  },
+  {
+    "name": "KEYSTONE FIRST",
+    "payerId": 23284
+  },
+  {
+    "name": "Keystone First Community Health Choices",
+    "payerId": 77741
+  },
+  {
+    "name": "Keystone First VIP Choice",
+    "payerId": 77741
+  },
+  {
+    "name": "Keystone Mercy Health Plan",
+    "payerId": 23284
+  },
+  {
+    "name": "LA Care Health Plan (Los Angeles Care Health Plan)",
+    "payerId": "LACAR"
+  },
+  {
+    "name": "La Crosse Care Plus",
+    "payerId": 39026
+  },
+  {
+    "name": "LACARE (Louisiana Care)",
+    "payerId": 27357
+  },
+  {
+    "name": "Lancaster General Hospital",
+    "payerId": 35182
+  },
+  {
+    "name": "Leon Medical Center Health Plan",
+    "payerId": 37316
+  },
+  {
+    "name": "Lifetime Benefit Solutions",
+    "payerId": "EBSRM"
+  },
+  {
+    "name": "LifeWise - A Premera Health Plan",
+    "payerId": 93093
+  },
+  {
+    "name": "Lifewise Assurance of OR",
+    "payerId": "SB930"
+  },
+  {
+    "name": "Lifewise Assurance of WA",
+    "payerId": "SB930"
+  },
+  {
+    "name": "Los Angeles Care Health Plan",
+    "payerId": "LACAR"
+  },
+  {
+    "name": "Louisiana Blue Cross",
+    "payerId": "SB670"
+  },
+  {
+    "name": "Louisiana Healthcare - Behavioral",
+    "payerId": 68069
+  },
+  {
+    "name": "Louisiana Healthcare Connections",
+    "payerId": 68069
+  },
+  {
+    "name": "Lovelace Health Plan",
+    "payerId": "SB790"
+  },
+  {
+    "name": "Lovelace Salud",
+    "payerId": "SB790"
+  },
+  {
+    "name": "Lovelace Sandia Health Plan",
+    "payerId": "SB790"
+  },
+  {
+    "name": "Loyal American Life Ins Co",
+    "payerId": 13193
+  },
+  {
+    "name": "Loyal American Life Ins Co- Medicare Supplement",
+    "payerId": 13193
+  },
+  {
+    "name": "Magellan Behavioral Health",
+    "payerId": "MBH11"
+  },
+  {
+    "name": "Magellan Complete Care",
+    "payerId": "MBH11"
+  },
+  {
+    "name": "Magellan Health Services",
+    "payerId": "MBH11"
+  },
+  {
+    "name": "Magnacare",
+    "payerId": 11303
+  },
+  {
+    "name": "Magnolia Health Plan",
+    "payerId": 68069
+  },
+  {
+    "name": "MAMSI Life & Health Insurance Co. (MLH) ",
+    "payerId": 87726
+  },
+  {
+    "name": "MAMSI Life and Health Ins. Co. ",
+    "payerId": 87726
+  },
+  {
+    "name": "Managed Health Services Indiana (Medicaid HMO)",
+    "payerId": 39186
+  },
+  {
+    "name": "Managed Health Services WI Behavioral Health",
+    "payerId": 68068
+  },
+  {
+    "name": "Managed Health Services Wisconsin",
+    "payerId": 39187
+  },
+  {
+    "name": "Mandalay Bay Casino",
+    "payerId": 39026
+  },
+  {
+    "name": "Maricopa",
+    "payerId": 9908
+  },
+  {
+    "name": "Maryland Physicians Care (Baltimore MD)",
+    "payerId": 22348
+  },
+  {
+    "name": "Maryland Physicians Care (Baltimore MD) (DOS 7/1/2017 and After)",
+    "payerId": "Z96144"
+  },
+  {
+    "name": "Mayo Management Services Inc",
+    "payerId": 41154
+  },
+  {
+    "name": "MD - Individual Practice Assoc. ",
+    "payerId": 87726
+  },
+  {
+    "name": "MDWise - Exchange",
+    "payerId": 45627
+  },
+  {
+    "name": "MDwise Excel Network",
+    "payerId": 45627
+  },
+  {
+    "name": "MDWise Exchange Market Place",
+    "payerId": 45627
+  },
+  {
+    "name": "MDWise Hoosier Alliance",
+    "payerId": 45627
+  },
+  {
+    "name": "MDWise Hoosier Alliance ",
+    "payerId": 45627
+  },
+  {
+    "name": "MDWISE MARKETPLACE",
+    "payerId": 45627
+  },
+  {
+    "name": "Med Center Health",
+    "payerId": 35182
+  },
+  {
+    "name": "MedAdvantage",
+    "payerId": "SB910"
+  },
+  {
+    "name": "MedBen (Newark, OH) ",
+    "payerId": 74323
+  },
+  {
+    "name": "MedCost Benefits Services",
+    "payerId": 56205
+  },
+  {
+    "name": "Medcost of North Carolina",
+    "payerId": 56205
+  },
+  {
+    "name": "Medica",
+    "payerId": 94265
+  },
+  {
+    "name": "Medica2",
+    "payerId": "Z95382"
+  },
+  {
+    "name": "Medicaid Alabama",
+    "payerId": "SKAL0"
+  },
+  {
+    "name": "Medicaid Alaska - First Health Services",
+    "payerId": "SKAK0"
+  },
+  {
+    "name": "Medicaid Arizona (AHCCCS)",
+    "payerId": "SKAZ0"
+  },
+  {
+    "name": "Medicaid Arkansas",
+    "payerId": "SKAR0"
+  },
+  {
+    "name": "Medicaid California",
+    "payerId": "SKCA0"
+  },
+  {
+    "name": "Medicaid Colorado",
+    "payerId": "SKCO0"
+  },
+  {
+    "name": "Medicaid Connecticut",
+    "payerId": "SKCT0"
+  },
+  {
+    "name": "Medicaid Delaware - EDS",
+    "payerId": "SKDE0"
+  },
+  {
+    "name": "Medicaid District of Columbia (DC)",
+    "payerId": "SKDC0"
+  },
+  {
+    "name": "Medicaid Florida",
+    "payerId": "SKFL0"
+  },
+  {
+    "name": "Medicaid Georgia",
+    "payerId": "SKGA0"
+  },
+  {
+    "name": "Medicaid Hawaii",
+    "payerId": "SKHI0"
+  },
+  {
+    "name": "Medicaid Idaho",
+    "payerId": "ZKID0"
+  },
+  {
+    "name": "Medicaid Illinois",
+    "payerId": "SKIL0"
+  },
+  {
+    "name": "Medicaid Indiana",
+    "payerId": "SKIN0"
+  },
+  {
+    "name": "Medicaid Iowa",
+    "payerId": "SKIA0"
+  },
+  {
+    "name": "Medicaid Kansas",
+    "payerId": "SKKS0"
+  },
+  {
+    "name": "Medicaid Kentucky",
+    "payerId": "SKKY0"
+  },
+  {
+    "name": "Medicaid Louisiana",
+    "payerId": "SKLA0"
+  },
+  {
+    "name": "Medicaid Magellan Psych Network",
+    "payerId": "MBH11"
+  },
+  {
+    "name": "Medicaid Maine",
+    "payerId": "SKME1"
+  },
+  {
+    "name": "Medicaid Maryland - State Dept of Health and Mental Hygiene",
+    "payerId": "SKMD0"
+  },
+  {
+    "name": "Medicaid Massachusetts",
+    "payerId": "SKMA0"
+  },
+  {
+    "name": "Medicaid Michigan",
+    "payerId": "SKMI0"
+  },
+  {
+    "name": "Medicaid Minnesota",
+    "payerId": "SKMN0"
+  },
+  {
+    "name": "Medicaid Mississippi",
+    "payerId": "SKMS0"
+  },
+  {
+    "name": "Medicaid Missouri",
+    "payerId": "SKMO0"
+  },
+  {
+    "name": "Medicaid Montana",
+    "payerId": "SKMT0"
+  },
+  {
+    "name": "Medicaid Nebraska - HHS of Lincoln, Nebraska ",
+    "payerId": "SKNE0"
+  },
+  {
+    "name": "Medicaid Nevada",
+    "payerId": "SKNV0"
+  },
+  {
+    "name": "Medicaid New Hampshire",
+    "payerId": "SKNH0"
+  },
+  {
+    "name": "Medicaid New Jersey",
+    "payerId": "SKNJ0"
+  },
+  {
+    "name": "Medicaid New Mexico",
+    "payerId": "SKNM0"
+  },
+  {
+    "name": "Medicaid New York",
+    "payerId": "SKNY1"
+  },
+  {
+    "name": "Medicaid North Carolina",
+    "payerId": "SKNC0"
+  },
+  {
+    "name": "Medicaid North Dakota",
+    "payerId": "SKND0"
+  },
+  {
+    "name": "Medicaid Ohio",
+    "payerId": "SKOH0"
+  },
+  {
+    "name": "Medicaid Oklahoma",
+    "payerId": "SKOK0"
+  },
+  {
+    "name": "Medicaid Oregon",
+    "payerId": "SKOR0"
+  },
+  {
+    "name": "Medicaid Pennsylvania",
+    "payerId": "SKPA0"
+  },
+  {
+    "name": "Medicaid South Carolina",
+    "payerId": "SKSC0"
+  },
+  {
+    "name": "Medicaid South Dakota",
+    "payerId": "SKSD0"
+  },
+  {
+    "name": "Medicaid Tennessee",
+    "payerId": "SKTN1"
+  },
+  {
+    "name": "Medicaid Texas",
+    "payerId": "SKTX0"
+  },
+  {
+    "name": "Medicaid Texas (Long Term Care)",
+    "payerId": "SKTX2"
+  },
+  {
+    "name": "Medicaid Utah",
+    "payerId": "SKUT0"
+  },
+  {
+    "name": "Medicaid Vermont",
+    "payerId": "SKVM0"
+  },
+  {
+    "name": "Medicaid Virginia",
+    "payerId": "SKVA0"
+  },
+  {
+    "name": "Medicaid Washington",
+    "payerId": "SKWA0"
+  },
+  {
+    "name": "Medicaid West Virginia",
+    "payerId": "SKWV0"
+  },
+  {
+    "name": "Medicaid Wisconsin",
+    "payerId": "SKWI0"
+  },
+  {
+    "name": "Medicaid Wyoming",
+    "payerId": "SKWY0"
+  },
+  {
+    "name": "Medical Associates Health Plans",
+    "payerId": "Z1269"
+  },
+  {
+    "name": "Medical Benefits Administrators Inc (Newark, OH) ",
+    "payerId": 74323
+  },
+  {
+    "name": "Medical Benefits Companies (Newark, OH) ",
+    "payerId": 74323
+  },
+  {
+    "name": "Medical Benefits Mutual",
+    "payerId": 74323
+  },
+  {
+    "name": "MediCal California",
+    "payerId": "SKCA0"
+  },
+  {
+    "name": "Medical Card System",
+    "payerId": "Z1419"
+  },
+  {
+    "name": "Medical Mutual of Ohio (MMO)",
+    "payerId": "SX057"
+  },
+  {
+    "name": "Medical Value Plan - Ohio (MVP)",
+    "payerId": 38224
+  },
+  {
+    "name": "Medicare Advantage- MT, OK, TX, IL, NM (BC) ",
+    "payerId": 66006
+  },
+  {
+    "name": "Medicare Complete",
+    "payerId": 87726
+  },
+  {
+    "name": "MEDICARE Y MUCHO MAS",
+    "payerId": "L0210"
+  },
+  {
+    "name": "Medicare y Mucho Mas (MMM)",
+    "payerId": "L0210"
+  },
+  {
+    "name": "Medigold Health Plans",
+    "payerId": 95655
+  },
+  {
+    "name": "MedStar Family Choice",
+    "payerId": 39190
+  },
+  {
+    "name": "Medstar Select/Medstar Medicare Choice",
+    "payerId": "251MS"
+  },
+  {
+    "name": "MEDXOOM",
+    "payerId": "MX001"
+  },
+  {
+    "name": "MEGA Life & Health",
+    "payerId": 74227
+  },
+  {
+    "name": "Mercy Care(AHCCCS)",
+    "payerId": 86052
+  },
+  {
+    "name": "Meridian Health Plan of Michigan",
+    "payerId": "Z1054"
+  },
+  {
+    "name": "Meritain Health",
+    "payerId": 64157
+  },
+  {
+    "name": "Meritain Health Minneapolis",
+    "payerId": 41124
+  },
+  {
+    "name": "Meritain Health Minneapolis ",
+    "payerId": 64157
+  },
+  {
+    "name": "Meritain Health/North American Administrators",
+    "payerId": 64157
+  },
+  {
+    "name": "Metcare Health Plans Inc (NY)",
+    "payerId": 61101
+  },
+  {
+    "name": "MetroPlus Health Plan",
+    "payerId": 13265
+  },
+  {
+    "name": "Metropolitan Health Plan",
+    "payerId": 10850
+  },
+  {
+    "name": "MHN-Managed Health Network (Richmond CA)",
+    "payerId": 22771
+  },
+  {
+    "name": "Michigan Blue Cross FEP",
+    "payerId": "SB710"
+  },
+  {
+    "name": "Michigan Complete Health",
+    "payerId": 68068
+  },
+  {
+    "name": "Mid-Atlantic Medical Services, Inc (MAMSI)  ",
+    "payerId": 87726
+  },
+  {
+    "name": "Mid-West United Life",
+    "payerId": 74227
+  },
+  {
+    "name": "Midwest Health Plan - MI",
+    "payerId": "MHP77"
+  },
+  {
+    "name": "Midwest Preferred",
+    "payerId": 79480
+  },
+  {
+    "name": "Midwest Security",
+    "payerId": 79480
+  },
+  {
+    "name": "Missionary Medical",
+    "payerId": "Z1013"
+  },
+  {
+    "name": "Missouri Care",
+    "payerId": 14163
+  },
+  {
+    "name": "Missouri Home State Health Care",
+    "payerId": 68069
+  },
+  {
+    "name": "MMSI",
+    "payerId": 41154
+  },
+  {
+    "name": "Moda Health",
+    "payerId": 13350
+  },
+  {
+    "name": "Mohawk Valley",
+    "payerId": 14165
+  },
+  {
+    "name": "Molina Health Care California",
+    "payerId": 38333
+  },
+  {
+    "name": "Molina Healthcare of Florida",
+    "payerId": 51062
+  },
+  {
+    "name": "Molina Healthcare of Michigan",
+    "payerId": "Z1007"
+  },
+  {
+    "name": "Molina Healthcare of New Mexico",
+    "payerId": "CIMS"
+  },
+  {
+    "name": "Molina Healthcare of OH",
+    "payerId": 20149
+  },
+  {
+    "name": "Molina Healthcare of Puerto Rico",
+    "payerId": 81794
+  },
+  {
+    "name": "Molina Healthcare of Texas",
+    "payerId": "Z1161"
+  },
+  {
+    "name": "Molina Healthcare of Utah",
+    "payerId": "Z1014"
+  },
+  {
+    "name": "Molina Healthcare of Washington",
+    "payerId": 38336
+  },
+  {
+    "name": "Molina Healthcare of Wisconsin",
+    "payerId": "ABRI1"
+  },
+  {
+    "name": "Molina Healthcare South Carolina",
+    "payerId": 46299
+  },
+  {
+    "name": "Molina Illinois",
+    "payerId": 20934
+  },
+  {
+    "name": "Montefiore Contract Management Organization",
+    "payerId": 13174
+  },
+  {
+    "name": "Motorola, Inc ",
+    "payerId": 61101
+  },
+  {
+    "name": "Mountain State FreedomBlue Medicare Advantage",
+    "payerId": 15459
+  },
+  {
+    "name": "Mt. Carmel Health Plan",
+    "payerId": 95655
+  },
+  {
+    "name": "Municipal Health Benefit Fund",
+    "payerId": 81883
+  },
+  {
+    "name": "Mutual of Omaha",
+    "payerId": 71412
+  },
+  {
+    "name": "Mutual of Omaha Insurance",
+    "payerId": 71412
+  },
+  {
+    "name": "Mutual of Omaha Insurance Company",
+    "payerId": 71412
+  },
+  {
+    "name": "Mutually Preferred",
+    "payerId": 71412
+  },
+  {
+    "name": "MVP Health Care",
+    "payerId": 14165
+  },
+  {
+    "name": "NALC/Affordable",
+    "payerId": 62308
+  },
+  {
+    "name": "Nash Healthcare Systems",
+    "payerId": 56205
+  },
+  {
+    "name": "National Association of Letter Carriers (NALC) (Medicare Primary ONLY)",
+    "payerId": 53011
+  },
+  {
+    "name": "National Association of Letter Carriers / NALC",
+    "payerId": 62308
+  },
+  {
+    "name": "National General (Aetna/Meritain)",
+    "payerId": 41124
+  },
+  {
+    "name": "National Health Benefits Corporation",
+    "payerId": 88050
+  },
+  {
+    "name": "National Rural Letter",
+    "payerId": 71412
+  },
+  {
+    "name": "National Rural Letter Carrier Association",
+    "payerId": 71412
+  },
+  {
+    "name": "National Telecommunications Cooperative",
+    "payerId": 62308
+  },
+  {
+    "name": "National Telecommunications Cooperative Association",
+    "payerId": 52103
+  },
+  {
+    "name": "Nebraska Total Care",
+    "payerId": 68069
+  },
+  {
+    "name": "Neighborhood Health Partnership",
+    "payerId": 95123
+  },
+  {
+    "name": "Neighborhood Health Plan (Boston, MA) ",
+    "payerId": 4293
+  },
+  {
+    "name": "Neighborhood Health Plan of Rhode Island",
+    "payerId": 5047
+  },
+  {
+    "name": "Neighborhood Health Plan RI - Exchange, Unity, Integrity ",
+    "payerId": 96240
+  },
+  {
+    "name": "Network Health Plan of Wisconsin Inc",
+    "payerId": 39144
+  },
+  {
+    "name": "New England Financial",
+    "payerId": 80705
+  },
+  {
+    "name": "New Hampshire Health Families",
+    "payerId": 68069
+  },
+  {
+    "name": "New Mexico Health Connections",
+    "payerId": 45129
+  },
+  {
+    "name": "New York State Department of Health",
+    "payerId": 15003
+  },
+  {
+    "name": "New York State Department of Health (Formerly Univera Healthcare - Managed Care 16107)",
+    "payerId": 15003
+  },
+  {
+    "name": "NEXT LEVEL HEALTH Remits ONLY",
+    "payerId": 68069
+  },
+  {
+    "name": "NGS American Inc",
+    "payerId": 35182
+  },
+  {
+    "name": "NHP/SHP (Neighborhood Health Providers and Suffolk Health Plan)",
+    "payerId": 80141
+  },
+  {
+    "name": "North American Administrators Inc",
+    "payerId": 64157
+  },
+  {
+    "name": "North American Preferred",
+    "payerId": 64157
+  },
+  {
+    "name": "North Central Health Protection Plan",
+    "payerId": 39026
+  },
+  {
+    "name": "NOVA",
+    "payerId": 62308
+  },
+  {
+    "name": "Nova Healthcare Administrators Inc. (Grand Island, NY) ",
+    "payerId": 16644
+  },
+  {
+    "name": "NovaSys Health Network ( Little Rock, AR) ",
+    "payerId": 71080
+  },
+  {
+    "name": "NTCA",
+    "payerId": 52103
+  },
+  {
+    "name": "Ocala PPO - Florida",
+    "payerId": 62308
+  },
+  {
+    "name": "ODS Health Plan",
+    "payerId": 13350
+  },
+  {
+    "name": "OEA Choice Trust",
+    "payerId": 13350
+  },
+  {
+    "name": "Ohana Health Plan",
+    "payerId": 14163
+  },
+  {
+    "name": "OK State Employees & Educators (EDS)",
+    "payerId": 22521
+  },
+  {
+    "name": "Olympus Manage Healthcare",
+    "payerId": 60054
+  },
+  {
+    "name": "One Health Plan of Alaska",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Arizona",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of California",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Colorado",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Florida",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Georgia",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Illinois",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Indiana",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Kansas",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Maine",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Massachusetts",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Nevada",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of New Hampshire",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of New Jersey",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of North Carolina",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Ohio",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Oregon",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Pennsylvania",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of South Carolina",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Tennessee",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Texas",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Virginia",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Washington",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Wisconsin",
+    "payerId": 80705
+  },
+  {
+    "name": "One Health Plan of Wyoming",
+    "payerId": 80705
+  },
+  {
+    "name": "OneNet, PPO ",
+    "payerId": 87726
+  },
+  {
+    "name": "Optima FED Program",
+    "payerId": 54154
+  },
+  {
+    "name": "Optima Health Plan",
+    "payerId": 54154
+  },
+  {
+    "name": "Optima Insurance Company",
+    "payerId": 54154
+  },
+  {
+    "name": "Optimum Choice of the Carolinas, INC.  ",
+    "payerId": 87726
+  },
+  {
+    "name": "Optimum Choice, INC. ",
+    "payerId": 87726
+  },
+  {
+    "name": "Optum Health",
+    "payerId": 87726
+  },
+  {
+    "name": "Optum Health Behavioral Health MCO - ID Medicaid",
+    "payerId": 87726
+  },
+  {
+    "name": "Oscar Health",
+    "payerId": "OSCAR"
+  },
+  {
+    "name": "Oschner Health Plan (Humana)",
+    "payerId": 61101
+  },
+  {
+    "name": "OSEEGIB (Oklahoma State and Education Employees Group Ins. Board)",
+    "payerId": 22521
+  },
+  {
+    "name": "OSF Healthplan IL",
+    "payerId": 61101
+  },
+  {
+    "name": "Oshkosh Area Health Protection Plan",
+    "payerId": 39026
+  },
+  {
+    "name": "Oxford Health Plans",
+    "payerId": 6111
+  },
+  {
+    "name": "PA Independence Blue Cross (3560)",
+    "payerId": 54704
+  },
+  {
+    "name": "PA Independence Blue Cross (Z1102)",
+    "payerId": 54704
+  },
+  {
+    "name": "Pacificare",
+    "payerId": 87726
+  },
+  {
+    "name": "PacificSource Adminstrators",
+    "payerId": 93031
+  },
+  {
+    "name": "PacificSource Community Solutions",
+    "payerId": 20416
+  },
+  {
+    "name": "PacificSource Community Solutions, Inc. -Medicaid ",
+    "payerId": 20416
+  },
+  {
+    "name": "PacificSource Health Plans",
+    "payerId": 93029
+  },
+  {
+    "name": "PacificSource Health Plans - OR Medicaid MCO",
+    "payerId": 93029
+  },
+  {
+    "name": "PacificSource Medicare",
+    "payerId": 20377
+  },
+  {
+    "name": "PAI",
+    "payerId": 37287
+  },
+  {
+    "name": "Pan American Life Insurance Group",
+    "payerId": 4218
+  },
+  {
+    "name": "Paramount Health",
+    "payerId": "SX158"
+  },
+  {
+    "name": "Parkland Community Health Plan",
+    "payerId": 66917
+  },
+  {
+    "name": "Partners National Health Plans of North Carolina Inc",
+    "payerId": 7472
+  },
+  {
+    "name": "Partnership Health Plan of California",
+    "payerId": "PHP02"
+  },
+  {
+    "name": "Passport Health Plan",
+    "payerId": 61325
+  },
+  {
+    "name": "PCA Health Plan",
+    "payerId": 61101
+  },
+  {
+    "name": "PCIP",
+    "payerId": 39026
+  },
+  {
+    "name": "PEACH STATE MEDICAID",
+    "payerId": 68069
+  },
+  {
+    "name": "PEHP (Public Employees Health Program)",
+    "payerId": "Z1012"
+  },
+  {
+    "name": "Pekin Insurance",
+    "payerId": 37086
+  },
+  {
+    "name": "Pennsylvania Community Health Choices",
+    "payerId": 77062
+  },
+  {
+    "name": "Performax, Inc. ",
+    "payerId": 41124
+  },
+  {
+    "name": "Personal Insurance Administrators,  Inc. (Agoura Hills, CA) ",
+    "payerId": 95397
+  },
+  {
+    "name": "Physician Health Partners Medicare",
+    "payerId": 87726
+  },
+  {
+    "name": "Physicians Care Health Plans (ASR Corporation) MICHIGAN",
+    "payerId": 38265
+  },
+  {
+    "name": "Physicians Health Plan of Northern Indiana (PHP)",
+    "payerId": 12399
+  },
+  {
+    "name": "Physicians Mutual Insurance Company",
+    "payerId": 47027
+  },
+  {
+    "name": "Physicians Plus Insurance",
+    "payerId": 39156
+  },
+  {
+    "name": "Physicians Plus Insurance Corporation",
+    "payerId": 39156
+  },
+  {
+    "name": "Piedmont Administrators",
+    "payerId": 56205
+  },
+  {
+    "name": "PINNACLE PHYSICIAN MANAGEMENT ORGANIZATION",
+    "payerId": 45985
+  },
+  {
+    "name": "Pittman & Associates",
+    "payerId": 37224
+  },
+  {
+    "name": "PLAN DE SALUD MENONITA",
+    "payerId": 66063
+  },
+  {
+    "name": "Planned Administrators",
+    "payerId": 37287
+  },
+  {
+    "name": "Portland PPO - Oregon",
+    "payerId": 62308
+  },
+  {
+    "name": "Preferred Care (NY Rochester)",
+    "payerId": 14165
+  },
+  {
+    "name": "Preferred Care Partners (FL)",
+    "payerId": 65088
+  },
+  {
+    "name": "Preferred Medicare Choice",
+    "payerId": "Z60056"
+  },
+  {
+    "name": "PreferredOne (MN)",
+    "payerId": 41147
+  },
+  {
+    "name": "Premier Health Plan",
+    "payerId": "251PR"
+  },
+  {
+    "name": "Premier Health Systems, Inc ",
+    "payerId": "SX057"
+  },
+  {
+    "name": "Prestige Health Choice",
+    "payerId": 77003
+  },
+  {
+    "name": "PREVEA360 HEALTH PLAN",
+    "payerId": 39113
+  },
+  {
+    "name": "Prime West Health Plan",
+    "payerId": 61604
+  },
+  {
+    "name": "Priority Health",
+    "payerId": 38217
+  },
+  {
+    "name": "Professional Benefit Administrators Inc (Oak Brook, IL) ",
+    "payerId": 36331
+  },
+  {
+    "name": "Professional Benefits Administrators, Inc. ",
+    "payerId": 36331
+  },
+  {
+    "name": "Prominence Health Plan of Nevada",
+    "payerId": 93082
+  },
+  {
+    "name": "Prominence Health Plan of Nevada (Medicaid)",
+    "payerId": 93082
+  },
+  {
+    "name": "Prominence Health Plan of Texas",
+    "payerId": 80095
+  },
+  {
+    "name": "Prominence Health Plan of Texas (Medicaid)",
+    "payerId": 80095
+  },
+  {
+    "name": "Providence Health Plan",
+    "payerId": 4498
+  },
+  {
+    "name": "Provident American Life & Health Ins Co",
+    "payerId": 13193
+  },
+  {
+    "name": "Provident American Life & Health Ins Co- Medicare Supplement",
+    "payerId": 13193
+  },
+  {
+    "name": "Provident Life & Casualty",
+    "payerId": 62308
+  },
+  {
+    "name": "Provident Preferred Network",
+    "payerId": 62308
+  },
+  {
+    "name": "Puget Sound Health Partners, Inc. ",
+    "payerId": 42172
+  },
+  {
+    "name": "Qual Choice of Arkansas",
+    "payerId": 35174
+  },
+  {
+    "name": "QualCare Inc",
+    "payerId": 23342
+  },
+  {
+    "name": "Qualcare-1st Health Network",
+    "payerId": 23342
+  },
+  {
+    "name": "QuikTrip Corporation",
+    "payerId": 73067
+  },
+  {
+    "name": "Railroad Medicare",
+    "payerId": "SRRGA"
+  },
+  {
+    "name": "Regence (BCBS) of Oregon",
+    "payerId": "SB850"
+  },
+  {
+    "name": "Regence Blue Shield of Idaho",
+    "payerId": "ZBID1"
+  },
+  {
+    "name": "Regence Federal Plan",
+    "payerId": 7451
+  },
+  {
+    "name": "Reserve National Insurance",
+    "payerId": 73066
+  },
+  {
+    "name": "RiverLink Health",
+    "payerId": 42172
+  },
+  {
+    "name": "Rosemont of Des Plaines, IL ",
+    "payerId": 36215
+  },
+  {
+    "name": "Sacramento PPO",
+    "payerId": 62308
+  },
+  {
+    "name": "SAMBA/Special Agents Mutual Benefit Association",
+    "payerId": 37259
+  },
+  {
+    "name": "San Francisco Health Plan",
+    "payerId": "SFHP1"
+  },
+  {
+    "name": "San Joaquin Health Administrators",
+    "payerId": 68035
+  },
+  {
+    "name": "Sanford Health Plan",
+    "payerId": 91184
+  },
+  {
+    "name": "Santa Barbara Regional Health Authority",
+    "payerId": "Z1243"
+  },
+  {
+    "name": "Santa Clara Family Health",
+    "payerId": 24077
+  },
+  {
+    "name": "Scott and White",
+    "payerId": 88030
+  },
+  {
+    "name": "Secure Horizons ",
+    "payerId": 87726
+  },
+  {
+    "name": "Secure Horizons - TUFTS Health Plan for Seniors",
+    "payerId": 4298
+  },
+  {
+    "name": "Secure Horizons Direct",
+    "payerId": 87726
+  },
+  {
+    "name": "Security Health Plan",
+    "payerId": 39045
+  },
+  {
+    "name": "Select Benefits Administrators (aka PacificSource Administrators)",
+    "payerId": 93031
+  },
+  {
+    "name": "Select Health of South Carolina",
+    "payerId": 23285
+  },
+  {
+    "name": "SelectHealth of Utah",
+    "payerId": "Z0001"
+  },
+  {
+    "name": "SELLEN CONSTRUCTION",
+    "payerId": 26337
+  },
+  {
+    "name": "Senior Partners",
+    "payerId": 52192
+  },
+  {
+    "name": "SENIOR WHOLE HEALTH",
+    "payerId": 83035
+  },
+  {
+    "name": "Sentara Health Management",
+    "payerId": 54154
+  },
+  {
+    "name": "Seton Chip",
+    "payerId": 74272
+  },
+  {
+    "name": "SF MUTUAL",
+    "payerId": 31053
+  },
+  {
+    "name": "Sharp Health Plan",
+    "payerId": "SHP102"
+  },
+  {
+    "name": "Sierra Health Services",
+    "payerId": 76342
+  },
+  {
+    "name": "Significa Benefit Services",
+    "payerId": 23250
+  },
+  {
+    "name": "Silversummit Healthplan",
+    "payerId": 68069
+  },
+  {
+    "name": "Simply Healthcare",
+    "payerId": 27094
+  },
+  {
+    "name": "SoundPath Health",
+    "payerId": 42172
+  },
+  {
+    "name": "South Country Health Alliance",
+    "payerId": 41154
+  },
+  {
+    "name": "Southeastern Indiana Health Organization (SIHO)",
+    "payerId": "IN432"
+  },
+  {
+    "name": "Special Agent Mutual Benefit Association / SAMBA",
+    "payerId": 62308
+  },
+  {
+    "name": "Spina Bifida - VA HAC",
+    "payerId": 84146
+  },
+  {
+    "name": "SPJST",
+    "payerId": 13193
+  },
+  {
+    "name": "St.Barnabas System Health Plan",
+    "payerId": 22099
+  },
+  {
+    "name": "Standard Life and Accident Insurance Company",
+    "payerId": 1758
+  },
+  {
+    "name": "StarMark",
+    "payerId": 61425
+  },
+  {
+    "name": "State Employees Group Benefits Program",
+    "payerId": "SB670"
+  },
+  {
+    "name": "State Farm Group Medical & Individual Health Insurance Companies",
+    "payerId": 31053
+  },
+  {
+    "name": "State Farm Insurance Companies",
+    "payerId": 31053
+  },
+  {
+    "name": "State Health Benefit Plan PPO and Indemnity (GA)",
+    "payerId": 87726
+  },
+  {
+    "name": "Staywell Health Plan",
+    "payerId": 14163
+  },
+  {
+    "name": "Sterling Benefits",
+    "payerId": 13193
+  },
+  {
+    "name": "Steward Health Choice Arizona",
+    "payerId": 62179
+  },
+  {
+    "name": "Stonebridge Life Insurance Company",
+    "payerId": "TRP1E"
+  },
+  {
+    "name": "Student Insurance",
+    "payerId": 74227
+  },
+  {
+    "name": "Student Insurance - Boston Mutual Life Insurance Company",
+    "payerId": 74227
+  },
+  {
+    "name": "Student Insurance - Life Insurance Company of Boston and New York",
+    "payerId": 74227
+  },
+  {
+    "name": "Student Insurance - Mid-West National Life Insurance Co. of Tennessee",
+    "payerId": 74227
+  },
+  {
+    "name": "Student Insurance - Reliance National Insurance Company",
+    "payerId": 74227
+  },
+  {
+    "name": "SummerCare Health Plan",
+    "payerId": 95202
+  },
+  {
+    "name": "Summit America Insurance Services, Inc. ",
+    "payerId": 37301
+  },
+  {
+    "name": "Sun Flower State (Kansas) - Behavioral Health",
+    "payerId": 68068
+  },
+  {
+    "name": "Sunflower State (MCO Kansas Medicaid) Medical",
+    "payerId": 68069
+  },
+  {
+    "name": "SUNSHINE STATE HEALTH PLAN",
+    "payerId": 68069
+  },
+  {
+    "name": "Superior Health Plan Texas",
+    "payerId": 39188
+  },
+  {
+    "name": "Superior HealthPlan ",
+    "payerId": 68069
+  },
+  {
+    "name": "Superior Star Medicaid",
+    "payerId": 68069
+  },
+  {
+    "name": "Superior Star Medicaid ",
+    "payerId": 68069
+  },
+  {
+    "name": "Sutter Connect-Select",
+    "payerId": 39026
+  },
+  {
+    "name": "Teamcare",
+    "payerId": 36215
+  },
+  {
+    "name": "Texas Childrens Health Plan- STAR (Medicaid)",
+    "payerId": 75228
+  },
+  {
+    "name": "Texas Christus",
+    "payerId": 45210
+  },
+  {
+    "name": "Texas Municipal League Group - UHC",
+    "payerId": 79480
+  },
+  {
+    "name": "Texas Municipal League Group - UHC Network",
+    "payerId": 79480
+  },
+  {
+    "name": "The Loomis Company",
+    "payerId": 23223
+  },
+  {
+    "name": "The OATH - A Health Plan for Alabama",
+    "payerId": 63092
+  },
+  {
+    "name": "Today's Option(American Progressive and Pyramid Life)Houston",
+    "payerId": 48055
+  },
+  {
+    "name": "Today's Options powered by CCRX",
+    "payerId": 48055
+  },
+  {
+    "name": "Todays Option (American Progressive and Pyramid Life)",
+    "payerId": 48055
+  },
+  {
+    "name": "Todays Options powered by CCRX",
+    "payerId": 48055
+  },
+  {
+    "name": "Tooling & Manufacturing Assoc.",
+    "payerId": 61425
+  },
+  {
+    "name": "Total Health Plan",
+    "payerId": 4298
+  },
+  {
+    "name": "Touchstone  Health PSO",
+    "payerId": 23856
+  },
+  {
+    "name": "TRAINING",
+    "payerId": "TRAIN"
+  },
+  {
+    "name": "Trans Health Protection Plan",
+    "payerId": 39026
+  },
+  {
+    "name": "TransactRX Infusion and Specialty",
+    "payerId": 11168
+  },
+  {
+    "name": "TRANSAMERICA",
+    "payerId": "TRP1E"
+  },
+  {
+    "name": "Transamerica Premier Life Insurance Company",
+    "payerId": "TRCLF"
+  },
+  {
+    "name": "TransChoiceAdvance",
+    "payerId": 71412
+  },
+  {
+    "name": "Tricare (Foreign Regions)",
+    "payerId": "TRICF"
+  },
+  {
+    "name": "Tricare East",
+    "payerId": "TREST"
+  },
+  {
+    "name": "Tricare for Life",
+    "payerId": "TDDIR"
+  },
+  {
+    "name": "Tricare Overseas",
+    "payerId": "TRICF"
+  },
+  {
+    "name": "Tricare West - UnitedHealthcare",
+    "payerId": "TRICW"
+  },
+  {
+    "name": "Tricare West Region",
+    "payerId": "TRICW"
+  },
+  {
+    "name": "Trillium Community Health Plan ",
+    "payerId": 68069
+  },
+  {
+    "name": "Trillium Community Health Plan - Oregon",
+    "payerId": 68069
+  },
+  {
+    "name": "Trillium Community Health Plan - Medicare",
+    "payerId": 68069
+  },
+  {
+    "name": "Trustmark",
+    "payerId": 61425
+  },
+  {
+    "name": "Trustmark Insurance Co.",
+    "payerId": 61425
+  },
+  {
+    "name": "TUFTS",
+    "payerId": 4298
+  },
+  {
+    "name": "TUFTS Associated Health Plan",
+    "payerId": 4298
+  },
+  {
+    "name": "TUFTS Health Plans",
+    "payerId": 4298
+  },
+  {
+    "name": "UCARE of Minnesota",
+    "payerId": 4496
+  },
+  {
+    "name": "UHC River Valley and AARP Medicare Supplement",
+    "payerId": 95123
+  },
+  {
+    "name": "UHC Shared Services",
+    "payerId": 39026
+  },
+  {
+    "name": "UHIS",
+    "payerId": 39026
+  },
+  {
+    "name": "UICI - Administrators - State of Nevada",
+    "payerId": 79480
+  },
+  {
+    "name": "UICI Administrators",
+    "payerId": 37283
+  },
+  {
+    "name": "UMR",
+    "payerId": 39026
+  },
+  {
+    "name": "UMR - Cincinnati",
+    "payerId": 39026
+  },
+  {
+    "name": "UMR - Harrington (Westerville)",
+    "payerId": 39026
+  },
+  {
+    "name": "UMR - San Antonio",
+    "payerId": 39026
+  },
+  {
+    "name": "UMR Harrington (Columbus)",
+    "payerId": 79480
+  },
+  {
+    "name": "UMR of Utah",
+    "payerId": 39026
+  },
+  {
+    "name": "UMR Wasau",
+    "payerId": 39026
+  },
+  {
+    "name": "UNICARE",
+    "payerId": 80314
+  },
+  {
+    "name": "Uniform Medical Plan/Centra",
+    "payerId": 39026
+  },
+  {
+    "name": "Union Pacific Railroad Employees",
+    "payerId": 87042
+  },
+  {
+    "name": "Unison Health Plan of Delaware - Remit  purpose",
+    "payerId": 39187
+  },
+  {
+    "name": "United health Integrated Services",
+    "payerId": 39026
+  },
+  {
+    "name": "UnitedHealthcare",
+    "payerId": 87726
+  },
+  {
+    "name": "United Medical Resources",
+    "payerId": 39026
+  },
+  {
+    "name": "United of Omaha",
+    "payerId": 71412
+  },
+  {
+    "name": "United States Automobile Association (USAA) - Property & Casualty Only",
+    "payerId": 74095
+  },
+  {
+    "name": "United Teacher Assoc Ins Co",
+    "payerId": 13193
+  },
+  {
+    "name": "United Teacher Assoc Ins Co- Medicare Supplement",
+    "payerId": 13193
+  },
+  {
+    "name": "UnitedHealthcare Community Plan / NJ",
+    "payerId": 86047
+  },
+  {
+    "name": "UnitedHealthcare Medicare Solutions / Care Improvement Plus (CIP), XLHealth ",
+    "payerId": 77082
+  },
+  {
+    "name": "UnitedHealthcare Nevada Market",
+    "payerId": 76342
+  },
+  {
+    "name": "UnitedHealthcare StudentResources",
+    "payerId": 74227
+  },
+  {
+    "name": "UnitedHealthOne (American Medical Security)",
+    "payerId": 81400
+  },
+  {
+    "name": "Unity Health Insurance",
+    "payerId": "Z0052"
+  },
+  {
+    "name": "Universal Care of California",
+    "payerId": 33001
+  },
+  {
+    "name": "University Family Care",
+    "payerId": 9830
+  },
+  {
+    "name": "University of Utah Health Plans (Healthy U)",
+    "payerId": "Z1030"
+  },
+  {
+    "name": "University Physicians Care Advantage",
+    "payerId": 9830
+  },
+  {
+    "name": "UPMC Health Plan",
+    "payerId": 23281
+  },
+  {
+    "name": "US Health and Life",
+    "payerId": 38259
+  },
+  {
+    "name": "VA Fee Basis Program",
+    "payerId": 12115
+  },
+  {
+    "name": "Vantage Health Plan, Inc. ",
+    "payerId": 72128
+  },
+  {
+    "name": "Vencor",
+    "payerId": 61101
+  },
+  {
+    "name": "Visiting Nurses Service",
+    "payerId": 77073
+  },
+  {
+    "name": "Viva Health Plan",
+    "payerId": 63114
+  },
+  {
+    "name": "VNSNY CHOICE Medicare",
+    "payerId": 77073
+  },
+  {
+    "name": "Vytra Healthcare",
+    "payerId": 22264
+  },
+  {
+    "name": "Washington Coordinated Care",
+    "payerId": 68069
+  },
+  {
+    "name": "Watkins Associated Industries Inc",
+    "payerId": 60054
+  },
+  {
+    "name": "Wausau Benefits",
+    "payerId": 39026
+  },
+  {
+    "name": "WEBTPA",
+    "payerId": 75261
+  },
+  {
+    "name": "Well Sense",
+    "payerId": 13337
+  },
+  {
+    "name": "Wellcare HMO, Inc. ",
+    "payerId": 14163
+  },
+  {
+    "name": "Wellcare of Georgia",
+    "payerId": 14163
+  },
+  {
+    "name": "Wellcare of Iowa",
+    "payerId": 14163
+  },
+  {
+    "name": "Wellcare of Kentucky",
+    "payerId": 14163
+  },
+  {
+    "name": "Wellcare of Louisiana",
+    "payerId": 14163
+  },
+  {
+    "name": "Wellcare of Nebraska",
+    "payerId": 14163
+  },
+  {
+    "name": "Wellcare of New York",
+    "payerId": 14163
+  },
+  {
+    "name": "Wellcare of South Carolina",
+    "payerId": 14163
+  },
+  {
+    "name": "West Virginia Family Health Plan",
+    "payerId": 45276
+  },
+  {
+    "name": "Western ",
+    "payerId": 80705
+  },
+  {
+    "name": "Windsor Health Plan",
+    "payerId": 14163
+  },
+  {
+    "name": "Writers Guild",
+    "payerId": "SB040"
+  },
+  {
+    "name": "XL Health / Care Improvement Plus",
+    "payerId": 77082
+  },
+  {
+    "name": "YourCare (formerly Monroe Plan for Medical Care)",
+    "payerId": 15003
+  }
+]
