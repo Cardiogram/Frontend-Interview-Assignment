@@ -8,7 +8,13 @@ import 'normalize.css';
 import './styles/variables.css';
 import './styles/base.css';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+const rootEl = document.getElementById('root');
+
+ReactDOM.render(<App />, rootEl);
+
+if (module.hot) {
+  module.hot.accept();
+}
 
 // If you want your app to work offline and load faster, you can change
 // unregister() to register() below. Note this comes with some pitfalls.
