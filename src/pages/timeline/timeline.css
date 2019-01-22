@@ -1,6 +1,7 @@
-.timeline {
+.timeline-page {
+  padding: 20px 0;
 }
 
-.timeline .card {
+.timeline-page .card {
   border-radius: 0;
 }

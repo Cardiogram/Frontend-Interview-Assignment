@@ -5,7 +5,7 @@ import mock from './mocks/discover.png';
 
 function HabitsPage() {
   return (
-    <section className="habits">
+    <section className="habits-page">
       <img src={mock} alt="" />
     </section>
   );

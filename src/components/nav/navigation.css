@@ -5,11 +5,16 @@
   bottom: 0;
   background: #fff;
   z-index: 10;
+  box-shadow: 0 0 10px 0 rgba(188, 198, 206, 0.6);
+  animation: fadeInUpSm 1s cubic-bezier(0.55, 0, 0.1, 1);
+}
+
+.navigation-container {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  box-shadow: 0 0 10px 0 rgba(188, 198, 206, 0.6);
-  animation: fadeInUpSm 1s cubic-bezier(0.55, 0, 0.1, 1);
+  max-width: var(--bp-mobile);
+  margin: 0 auto;
 }
 
 .navigation-item {

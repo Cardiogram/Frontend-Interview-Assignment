@@ -1,2 +1,14 @@
-.care {
+.care-page {
+  padding: 30px;
+}
+
+.care-container {
+  max-width: var(--bp-mobile);
+  margin: 0 auto;
+}
+
+.card.care-card {
+  height: auto;
+  padding: 20px;
+  text-align: left;
 }

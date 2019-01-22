@@ -1,7 +1,7 @@
-.metrics {
+.metrics-page {
   padding: 20px;
 }
 
-.metrics img {
+.metrics-page img {
   object-fit: cover;
 }

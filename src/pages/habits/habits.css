@@ -1,2 +1,5 @@
-.habits {
+.habits-page {
+  max-width: var(--bp-mobile);
+  margin: 0 auto;
+  text-align: center;
 }

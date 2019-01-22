@@ -64,7 +64,7 @@ class TimelinePage extends Component {
   render() {
     const { isLoading, cardiograms } = this.state;
     return (
-      <section className="timeline">
+      <section className="timeline-page">
         {isLoading && <Loading />}
         {!isLoading &&
           cardiograms.map((c) => (

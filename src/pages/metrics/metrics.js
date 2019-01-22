@@ -6,7 +6,7 @@ import comparisonMock from './mocks/comparison.png';
 
 function MetricsPage() {
   return (
-    <section className="metrics">
+    <section className="metrics-page">
       <Card className="text-left" title="Comparisons">
         <img src={comparisonMock} alt="" />
       </Card>
