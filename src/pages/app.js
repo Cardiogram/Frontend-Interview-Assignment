@@ -14,7 +14,6 @@ import CARE_ICON from '../components/icons/care-icon';
 import HABITS_ICON from '../components/icons/habits-icon';
 import PROFILE_ICON from '../components/icons/profile-icon';
 
-// TODO: Should we use React Router?
 const PAGES = {
   timeline: {
     name: 'timeline',
