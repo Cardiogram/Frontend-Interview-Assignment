@@ -23,16 +23,13 @@ const CARDIOGRAM_URLS = [
 // This response preview response data will also return segments.
 // const DEMO_URL = 'http://localhost:3000/data/preview.json';
 
-function fetchCardiograms(url) {
-  return fetch(url).then((response) =>
-    response
-      .json()
-      .then((data) =>
-        Array.isArray(data.cardiograms)
-          ? data.cardiograms.map((c) => new Cardiogram(c))
-          : new Cardiogram(data.cardiogram),
-      ),
-  );
+async function fetchCardiograms(url) {
+  const response = await fetch(url);
+  const data = await response.json();
+
+  return Array.isArray(data.cardiograms)
+    ? data.cardiograms.map((c) => new Cardiogram(c))
+    : new Cardiogram(data.cardiogram);
 }
 
 /**
@@ -47,18 +44,14 @@ class TimelinePage extends Component {
     };
   }
 
-  componentDidMount() {
+  async componentDidMount() {
     // Fetch from local.
-    Promise.all(CARDIOGRAM_URLS.map((url) => fetchCardiograms(url))).then(
-      (cardiograms) => {
-        this.setState({ isLoading: false, cardiograms });
-      },
-    );
-
+    const promises = CARDIOGRAM_URLS.map((url) => fetchCardiograms(url));
+    const cardiograms = await Promise.all(promises);
+    this.setState({ isLoading: false, cardiograms });
     // Fetch from demo url.
-    // fetchCardiograms(DEMO_URL).then((cardiograms) => {
-    //   this.setState({ isLoading: false, cardiograms });
-    // });
+    // const cardiograms = await fetchCardiograms(DEMO_URL);
+    // this.setState({ isLoading: false, cardiograms });
   }
 
   render() {
