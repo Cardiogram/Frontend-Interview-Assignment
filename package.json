@@ -59,7 +59,7 @@
     "express": "4.16.4",
     "isomorphic-fetch": "2.2.1",
     "normalize.css": "8.0.1",
-    "prop-types": "15.6.2",
+    "prop-types": "15.7.0",
     "react": "16.7.0",
     "react-dom": "16.7.0",
     "react-router-dom": "4.3.1",
