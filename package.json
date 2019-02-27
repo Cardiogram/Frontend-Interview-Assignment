@@ -1,16 +1,16 @@
 {
-  "name": "cardiogram-frontend-interview",
-  "description": "Cardiogram frontend interview assignment",
-  "version": "0.3.0",
+  "name": "cardiogram-product-interview",
+  "description": "Cardiogram product onsite interview assignment",
+  "version": "0.4.0",
   "main": "src/index.js",
   "author": "Cardiogram <hello@cardiogr.am>",
   "license": "BSD-2-Clause",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Cardiogram/frontend-interview-assignment.git"
+    "url": "git://github.com/Cardiogram/onsite-interview-project.git"
   },
   "bugs": {
-    "url": "https://github.com/Cardiogram/frontend-interview-assignment/issues"
+    "url": "https://github.com/Cardiogram/onsite-interview-project/issues"
   },
   "scripts": {
     "server": "node server",

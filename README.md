@@ -1,15 +1,15 @@
-[![Build Status](https://travis-ci.com/Cardiogram/frontend-interview-project.svg?branch=master)](https://travis-ci.com/Cardiogram/frontend-interview-project) [![Greenkeeper badge](https://badges.greenkeeper.io/Cardiogram/frontend-interview-project.svg)](https://greenkeeper.io/)
+[![Build Status](https://travis-ci.com/Cardiogram/onsite-interview-project.svg?branch=master)](https://travis-ci.com/Cardiogram/onsite-interview-project) [![Greenkeeper badge](https://badges.greenkeeper.io/Cardiogram/onsite-interview-project.svg)](https://greenkeeper.io/)
 
-# Cardiogram Frontend Interview
+# Cardiogram Product Onsite Interview
 
-Welcome to Cardiogram's frontend interview! You'll be using this repository as boilerplate towards your project. You should have received instructions on your assignment.
+Welcome to Cardiogram's product onsite interview! You'll be using this repository as boilerplate towards your project. You should have received instructions on your assignment.
 
 ## Setup
 
 Clone the repo and install dependencies
 
 ```bash
-git clone git@github.com:Cardiogram/frontend-interview-assignment.git .
+git clone git@github.com:Cardiogram/onsite-interview-project.git .
 npm i
 ```
 
