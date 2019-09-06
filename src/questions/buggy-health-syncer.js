@@ -23,6 +23,6 @@ class BuggyHealthSyncer {
   reset() {
     this.sensorTypeToLastSynced.each((st) => {
       this.sensorTypeToLastSynced[st] = -1;
-    }
+    });
   }
 }
