@@ -12,33 +12,51 @@ class MockHealthKit {
   }
 
   /**
-   * Register.
+   * Register an observer function, which will be called whenever new data becomes available for
+   * this sensorType.
+   *
    * @param {string} sensorType
-   * @param {function} healthObserver - a function(sensorType) which is called whenever new data
-   *   becomes available.
+   * @param {function} observer - a parameterless function.
    */ 
-  registerObserver(sensorType, healthObserver) {
+  registerObserver(sensorType, observerFunction) {
     if (!this.sensorTypeToObservers[sensorType]) {
       this.sensorTypeToObservers[sensorType] = [];
     }
-    this.sensorTypeToObservers[sensorType].push(healthObserver);
+    this.sensorTypeToObservers[sensorType].push(observerFunction);
+  }
+
+  queryForData(sensorType, start, end, cb) {
+    console.log(`queryForData(${start}, ${end})`);
+    const data = this.sensorTypeToDataPoints[sensorType].filter((d) => {
+      return d.start >= start && d.end < end;
+    });
+    console.log(`Returning ${data.length}/${this.sensorTypeToDataPoints[sensorType].length} measurements`);
+    setTimeout(() => cb(null, data), 2);
   }
 
   /**
    * Test cases should call this when they want to simulate what happens when HealthKit receives
    * new data from a sensor (e.g., heart rate sensor or accelerometer for step counts).
    */
-  mockNewSensorMeasurements(sensorType, listOfDataPoints) {
+  injectFakeSensorMeasurements(sensorType, listOfDataPoints) {
     if (!this.sensorTypeToDataPoints[sensorType]) {
       this.sensorTypeToDataPoints[sensorType] = [];
     }
-    const combinedData = this.sensorTypeToDataPoints.concat(listOfDataPoints);
-    const sortedData = combinedData.sort((a, b) => a.start - b.start);
-    this.sensorTypeToDataPoints[sensorType]= sortedData;
-    if (this.sensorTypeToObservers) {
-      this.sensorTypeToObservers[sensorType].each((observer) => {
-        // DO SOMETHING
+
+    const oldData = this.sensorTypeToDataPoints[sensorType]
+    const combinedData = oldData.concat(listOfDataPoints).sort((a, b) => a.start - b.start);
+    this.sensorTypeToDataPoints[sensorType] = combinedData;
+    if (this.sensorTypeToObservers[sensorType]) {
+      this.sensorTypeToObservers[sensorType].forEach((observer) => {
+        observer();
       });
-    };
+    }
   }
-};
+
+  reset() {
+    // don't reset observers
+    this.sensorTypeToDataPoints = {};
+  }
+}
+
+module.exports = MockHealthKit;
